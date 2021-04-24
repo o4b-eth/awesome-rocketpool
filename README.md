@@ -44,15 +44,15 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### rETH Staker
 
-### RPL Tokenomics
-* [Rocketpool - Staking Part Protocol Part 3 - RPL & Tokenomics](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-3-3029afb57d4c)
 
 ## Informational Resources
 
 ### Blogs & Articles
+* [Rocketpool - Staking Part Protocol Part 3 - RPL & Tokenomics](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-3-3029afb57d4c)
 
 ### Videos
 * [Interview w/ CTO David Rugendyke - Bankless](https://www.youtube.com/watch?v=cqf6aJCFZn8)
+* [Rocket Pool Tokenomics - Ethstaker Livestream](https://www.youtube.com/watch?v=cIXWF512srA)
 * [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
 * [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
 
