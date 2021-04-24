@@ -13,39 +13,68 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ---
 
-## Contents
+## Resources
 - [Official](#official)
-- [Guides & Tutorials](#guides-&-tutorials)
+- [Guides & Tutorials](#guides-tutorials)
+  - [Node Operator](#node-operator)
+  - [rETH Staker](#reth-staker)
 - [Informational Resources](#informational-resources)
-  - [Articles / Blog Posts](#articles-/-blog-posts)
+  - [Blogs & Articles](#blogs-articles)
   - [Videos](#videos)
+- [Market information](#market-information)
 - [Tools](#tools)
-- [Misc](#misc)
+- [Related Resources](#related-resources)
 - [Community & Social Links](#community-&-social-links)
 
 
 ## Official
+* [Website](https://www.rocketpool.net)
+* [Github](https://github.com/rocket-pool/rocketpool)
+* [Medium](https://medium.com/rocket-pool)
+* [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
+* [Docs](https://rocket-pool.readthedocs.io/en/latest/)
+* [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
 
-- [Website](https://www.rocketpool.net/)
-- [Docs](https://rocket-pool.readthedocs.io/en/latest/)
-- [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
-- [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
-- [Repository](https://github.com/rocket-pool/)
 
-## Guides & Tutorials
+## Guides & Tutorials 
+
+### Node Operator
+* [Rocket Pool v3.0 Beta — Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
+
+### rETH Staker
+
 
 ## Informational Resources
 
-### Articles / Blog Posts
-* ex1
-* ex2
+### Blogs & Articles
 
 ### Videos
-* v1
-* v2
+* [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
+* [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
+
+
+
+## Market information
+* [CoinGecko](https://www.coingecko.com/en/coins/rocket-pool)
+
 
 ## Tools
+* [Rocketpool Tool](https://www.rocketpooltool.com/)
+* [Node Operator Dashboard (by Beaconchain)]
 
-## Misc
+
+
+## Related Resouces
+
+### Eth2 Clients
+
+### Comparisons to Lido and centralized services
+
 
 ## Community & Social Links
+* [Discord](https://discord.com/invite/tCRG54c)
+* [Twitter](https://twitter.com/Rocket_Pool)
+* [Reddit](https://www.reddit.com/r/rocketpool/)
+
+
+
