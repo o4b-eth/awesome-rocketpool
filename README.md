@@ -16,7 +16,9 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ## Contents
 - [Official](#official)
 - [Guides & Tutorials](#guides-&-tutorials)
-- [Articles & Informational Resources](#articles-&-informational-resources)
+- [Informational Resources](#informational-resources)
+  - [Articles / Blog Posts](#articles-/-blog-posts)
+  - [Videos](#videos)
 - [Tools](#tools)
 - [Misc](#misc)
 - [Community & Social Links](#community-&-social-links)
@@ -32,7 +34,15 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ## Guides & Tutorials
 
-## Articles & Informational Resources
+## Informational Resources
+
+### Articles / Blog Posts
+* ex1
+* ex2
+
+### Videos
+* v1
+* v2
 
 ## Tools
 
