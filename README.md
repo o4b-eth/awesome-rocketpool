@@ -66,9 +66,10 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 
 ## Tools
-* [Rocketpool Tool](https://www.rocketpooltool.com/)
+* [Rocket Pool Tool](https://www.rocketpooltool.com/)
 * [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
 * [RPL Calculator (Spreadsheet)](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)
+* [Rocket Pool Beta 3 Leaderboard](https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/)
 * [Node Operator Dashboard (by Beaconchain)]
 
 
