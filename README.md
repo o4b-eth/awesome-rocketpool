@@ -40,7 +40,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### Node Operator
 * [Rocket Pool v3.0 Beta — Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
-
+* [Rocket Pool v3.0 Beta — Setting up Rocket Pool on a Raspberry Pi](https://github.com/jclapis/rp-pi-guide/blob/main/Overview.md)
 ### rETH Staker
 
 
