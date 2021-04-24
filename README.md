@@ -63,6 +63,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ## Tools
 * [Rocketpool Tool](https://www.rocketpooltool.com/)
+* [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
 * [Node Operator Dashboard (by Beaconchain)]
 
 
