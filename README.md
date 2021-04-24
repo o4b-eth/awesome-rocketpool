@@ -18,6 +18,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 - [Guides & Tutorials](#guides-tutorials)
   - [Node Operator](#node-operator)
   - [rETH Staker](#reth-staker)
+  - [RPL Tokenomics](#rpl-tokenomics)
 - [Informational Resources](#informational-resources)
   - [Blogs & Articles](#blogs-articles)
   - [Videos](#videos)
@@ -43,6 +44,8 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### rETH Staker
 
+### RPL Tokenomics
+* [Rocketpool - Staking Part Protocol Part 3 - RPL & Tokenomics](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-3-3029afb57d4c)
 
 ## Informational Resources
 
