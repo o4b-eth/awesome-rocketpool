@@ -52,6 +52,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ### Blogs & Articles
 
 ### Videos
+* [Interview w/ CTO David Rugendyke - Bankless](https://www.youtube.com/watch?v=cqf6aJCFZn8)
 * [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
 * [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
 
