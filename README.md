@@ -18,7 +18,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 - [Guides & Tutorials](#guides-tutorials)
   - [Node Operator](#node-operator)
   - [rETH Staker](#reth-staker)
-  - [RPL Tokenomics](#rpl-tokenomics)
 - [Informational Resources](#informational-resources)
   - [Blogs & Articles](#blogs-articles)
   - [Videos](#videos)
