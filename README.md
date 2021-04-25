@@ -61,6 +61,8 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * [Bankless Newsletter - How Ethereum Can Democratize ETH2 Staking](https://newsletter.banklesshq.com/p/how-ethereum-can-democratize-eth2)
 * [Crypto Briefing - Defi Project Spotlight - Rocket Pool, Staking Service for Ethereum 2.0](https://cryptobriefing.com/defi-project-spotlight-rocket-pool-staking-service-ethereum-2-0/)
+* [Shrimpy Academy - What Is Rocket Pool?](https://academy.shrimpy.io/post/what-is-rocket-pool)
+
 
 ### :tv: Press Videos
 
