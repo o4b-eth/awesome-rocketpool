@@ -35,6 +35,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
 * :newspaper: [Docs](https://rocket-pool.readthedocs.io/en/latest/)
 * :newspaper: [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
+* :newspaper: [DAO Forums](https://dao.rocketpool.net/)
 
 ### Official Explainer Series
 * :newspaper: [Explainer Series Part 1 - Overview And Users](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd)
