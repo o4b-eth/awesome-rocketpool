@@ -15,11 +15,11 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ## Resources
 - [Official](#official)
-- [Guides & Tutorials](#guides-tutorials)
+- [Guides & Tutorials](#guides-&-tutorials)
   - [Node Operator](#node-operator)
   - [rETH Staker](#reth-staker)
 - [Informational Resources](#informational-resources)
-  - [Blogs & Articles](#blogs-articles)
+  - [Blogs & Articles](#blogs-&-articles)
   - [Videos](#videos)
 - [Market information](#market-information)
 - [Tools](#tools)
@@ -76,7 +76,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * [Node Operator Dashboard (by Beaconchain)]
 
 
-## Related Resouces
+## Related Resources
 
 ### Eth2 Clients
 
