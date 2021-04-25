@@ -91,6 +91,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :hammer_and_wrench: [Rocket Pool Tool (Website With Built-In Calculator)](https://www.rocketpooltool.com/)
 * :hammer_and_wrench: [RPL Calculator (Spreadsheet)](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)
+* :hammer_and_wrench: [Rocket Pool Gas Estimates](https://docs.google.com/spreadsheets/d/1KhAhByZ4JbJxdVfhSoKzZvjvUKuSXnB9alJS8FmbtA4/edit?usp=sharing)
 * :trophy: [Rocket Pool Beta 3 Leaderboard](https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/)
 * :chart: Node Operator Dashboard - by beaconcha.in (In Development)
 
