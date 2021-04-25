@@ -96,6 +96,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
 * [RPL Calculator (Spreadsheet)](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)
 * [Rocket Pool Beta 3 Leaderboard](https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/)
+* [Rocket Pool Gas Estimates](https://docs.google.com/spreadsheets/d/1KhAhByZ4JbJxdVfhSoKzZvjvUKuSXnB9alJS8FmbtA4/edit?usp=sharing)
 * [ ] TODO (Node Operator Dashboard - by beaconcha.in)
 
 ### :tv: Community Videos
