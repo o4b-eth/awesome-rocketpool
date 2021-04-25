@@ -100,6 +100,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * [Rocket Pool Tokenomics - Ethstaker Livestream](https://www.youtube.com/watch?v=cIXWF512srA)
 * [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
 * [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
+* [Decentralized Graffiti Drawing Tool Demo](https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker)
 
 ### :information_source: Community FAQ
 
