@@ -99,9 +99,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 [Located On Separate Page](community-fAQ.md)
 
 ### Competitor Comparisons
-=======
-[Located On Separate Page](community-fAQ.md)
-
 
 * :crossed_swords: TODO Competitor Comparison #1
 
