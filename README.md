@@ -96,7 +96,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### FAQ
 
-[Located On Separate Page](community-fAQ.md)
+[Located On Separate Page](Community%20FAQ.md)
 
 ### Competitor Comparisons
 
