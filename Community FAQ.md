@@ -14,7 +14,7 @@ The information below is put together from various social media sources. (E.g. R
 * Will I be able to use my rEth as collateral in DeFi?
   - [There is an application pending for Maker to accept rEth as collateral](https://vote.makerdao.com/polling/QmV4YgXs?network=mainnet#poll-detail)
     - :bangbang: This is current up for vote. The voting is available for 14 days and started on 19/04/2021. 
-  - [There is an ppalication pending for Aave to accept rEth as collateral](https://governance.aave.com/t/proposal-add-support-for-reth-token/3585)
+  - [There is an application pending for Aave to accept rEth as collateral](https://governance.aave.com/t/proposal-add-support-for-reth-token/3585)
 
 
 ## :moneybag: RPL
