@@ -124,6 +124,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ### Market information
 
 * :chart_with_upwards_trend: [CoinGecko](https://www.coingecko.com/en/coins/rocket-pool)
+* :chart_with_upwards_trend: [Etherscan](https://etherscan.io/token/0xb4efd85c19999d84251304bda99e90b92300bd93#balances)
 
 ### ETH2 Clients
 
