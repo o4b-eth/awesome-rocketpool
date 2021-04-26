@@ -72,7 +72,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Rocket Pool Investment Thesis - Original](https://www.reddit.com/r/ethfinance/comments/m3pug8/the_rocket_pool_investment_thesis/)
 * :newspaper: [Rocket Pool Investment Thesis - Speculative Edition](https://www.reddit.com/r/ethtrader/comments/m43r38/the_rocket_pool_investment_thesis_speculative/)
 * :newspaper: [Rocket Pool Investment Thesis - Price To Earnings Ratio](https://www.reddit.com/r/ethfinance/comments/m4jj0i/rocketpool_investment_thesis_round_3/)
-* :tv: [Rocket Pool Tokenomics - Ethstaker Livestream](https://www.youtube.com/watch?v=cIXWF512srA)
 
 ### ETHStaker
 
