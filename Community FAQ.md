@@ -1,4 +1,4 @@
-# :information_source: Community FAQ
+# :speak_no_evil: Community FAQ
 
 The information below is put together from various social media sources. (E.g. Reddit, Discord, ...)
 
@@ -12,3 +12,18 @@ The information below is put together from various social media sources. (E.g. R
 ## :moneybag: RPL
 * [What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)
 * [Why isn't RPL currently listed on a major exchange like Coinbase?](https://discord.com/channels/405159462932971535/709960470953590825/834968369895047179)
+* [Will there be a reserve pool so non-node operators can put their RPL to good use?](https://discord.com/channels/405159462932971535/704196071881965589/831427079382892554)
+* Is there going to be a new RPL token on the initial mainnet release?
+   - [Confirmation By Darcius](https://discord.com/channels/405159462932971535/704196071881965589/805965393846861866)
+   - [Link to smart contract](https://discord.com/channels/405159462932971535/709960470953590825/800513269257207868)
+
+## :rocket: Beta
+
+* [Will there be a cap on the initial mainnet release?](https://discord.com/channels/405159462932971535/405164275036848128/817275321010094090)
+* [Do any changes need to happen so everybody benefits from the validator inclusion fees?](https://discord.com/channels/405159462932971535/468923220607762485/834701375756566548)
+* [Will the GUI client be available on the initial mainnet release?](https://discord.com/channels/405159462932971535/405164275036848128/830036765741547590)
+* [Are there any plans to work on RP after the initial mainnet release?](https://discord.com/channels/405159462932971535/704196071881965589/829605393503748166)
+* Is there any feedback at all from the auditors?
+  - [03/29/2021 Update](https://discord.com/channels/405159462932971535/704196071881965589/825869840169828372)
+  - [04/20/2021 Update #1](https://discord.com/channels/405159462932971535/405163979141545995/833934887064305684)
+  - [04/20/2021 Update #2](https://discord.com/channels/405159462932971535/405163979141545995/833934895397994537)
