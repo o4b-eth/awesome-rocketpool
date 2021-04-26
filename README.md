@@ -36,6 +36,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Docs](https://rocket-pool.readthedocs.io/en/latest/)
 * :newspaper: [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
 * :newspaper: [DAO Forums](https://dao.rocketpool.net/)
+* :newspaper: [Glossary](https://github.com/htimsk/rocketpool.github.io/blob/main/src/documentation/glossary.md)
 
 ### Official Explainer Series
 * :newspaper: [Explainer Series Part 1 - Overview And Users](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd)
@@ -48,6 +49,10 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :iphone: [Reddit](https://www.reddit.com/r/rocketpool/)
 * :iphone: [Medium](https://medium.com/rocket-pool)
 * :iphone: [Github](https://github.com/rocket-pool/rocketpool) 
+
+### Official Tools
+
+* :hammer_and_wrench: [RPL Calculator (Spreadsheet)](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)
 
 ---
 
@@ -94,10 +99,9 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :newspaper: TODO - rEth Staker Guide #1
 
-### Tools
+### Community Tools
 
 * :hammer_and_wrench: [Rocket Pool Tool (Website With Built-In Calculator)](https://www.rocketpooltool.com/)
-* :hammer_and_wrench: [RPL Calculator (Spreadsheet)](https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/edit#gid=0)
 * :hammer_and_wrench: [Rocket Pool Gas Estimates](https://docs.google.com/spreadsheets/d/1KhAhByZ4JbJxdVfhSoKzZvjvUKuSXnB9alJS8FmbtA4/edit?usp=sharing)
 * :trophy: [Rocket Pool Beta 3 Leaderboard](https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/)
 * :chart: Node Operator Dashboard - by beaconcha.in (In Development)
