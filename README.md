@@ -69,6 +69,12 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Rocket Pool Investment Thesis - Price To Earnings Ratio](https://www.reddit.com/r/ethfinance/comments/m4jj0i/rocketpool_investment_thesis_round_3/)
 * :tv: [Rocket Pool Tokenomics - Ethstaker Livestream](https://www.youtube.com/watch?v=cIXWF512srA)
 
+### ETHStaker
+
+* :tv: [Community Call #3 - All about Rocket Pool](https://www.youtube.com/watch?v=4BoIcZjjaUc&ab_channel=ETHStaker)
+* :tv: [Community Call #14 - David Rugendyke](https://youtu.be/uK_ioljAXy0?t=187)
+* :tv: [Rocket Pool Quiz Game](https://youtu.be/-YdBslzHGec?t=1178)
+
 ### Community Explainer Series
 
 * :tv: [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
@@ -112,6 +118,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :chart_with_upwards_trend: [CoinGecko](https://www.coingecko.com/en/coins/rocket-pool)
 
-### Eth2 Clients
+### ETH2 Clients
 
 * :computer: TODO
