@@ -9,6 +9,14 @@ The information below is put together from various social media sources. (E.g. R
 * [When/how will we know who is in the Oracle DAO?](https://discord.com/channels/405159462932971535/704196071881965589/812110740995178496)
 * [Why can't the Protocol DAO (RPL token holders) hold these responsibilites?](https://discord.com/channels/405159462932971535/704196071881965589/812112820350746644)
 
+## :moneybag: rETH
+
+* Will I be able to use my rEth as collateral in DeFi?
+  - [There is an application pending for Maker to accept rEth as collateral](https://vote.makerdao.com/polling/QmV4YgXs?network=mainnet#poll-detail)
+    - :bangbang: This is current up for vote. The voting is available for 14 days and started on 19/04/2021. 
+  - [There is an ppalication pending for Aave to accept rEth as collateral](https://governance.aave.com/t/proposal-add-support-for-reth-token/3585)
+
+
 ## :moneybag: RPL
 * [What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)
 * [Why isn't RPL currently listed on a major exchange like Coinbase?](https://discord.com/channels/405159462932971535/709960470953590825/834968369895047179)
