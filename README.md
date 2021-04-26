@@ -105,6 +105,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ### Community Tools
 
 * :hammer_and_wrench: [Rocket Pool Tool (Website With Built-In Calculator)](https://www.rocketpooltool.com/)
+* :hammer_and_wrench: [Rocket Pool Moon Math Sheet](https://discord.com/channels/405159462932971535/405163713063288832/820009733020844043)
 * :hammer_and_wrench: [Rocket Pool Gas Estimates](https://docs.google.com/spreadsheets/d/1KhAhByZ4JbJxdVfhSoKzZvjvUKuSXnB9alJS8FmbtA4/edit?usp=sharing)
 * :trophy: [Rocket Pool Beta 3 Leaderboard](https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/)
 * :chart: [RPL Yield for Node Operators Calculator](https://tommw.shinyapps.io/RPL_apy/)
