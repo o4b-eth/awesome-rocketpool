@@ -79,6 +79,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :tv: [Community Call #3 - All about Rocket Pool](https://www.youtube.com/watch?v=4BoIcZjjaUc&ab_channel=ETHStaker)
 * :tv: [Community Call #14 - David Rugendyke](https://youtu.be/uK_ioljAXy0?t=187)
 * :tv: [Rocket Pool Quiz Game](https://youtu.be/-YdBslzHGec?t=1178)
+* :tv: [Rocket Pool Tokenomics](https://youtu.be/cIXWF512srA?t=53)
 
 ### Community Explainer Series
 
