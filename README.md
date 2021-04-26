@@ -92,8 +92,10 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Setting up Rocket Pool on a Raspberry Pi](https://github.com/jclapis/rp-pi-guide/blob/main/Overview.md)
 * :newspaper: [Selecting Staking Hardware](https://github.com/jclapis/rocketpool.github.io/blob/main/src/guides/local/hardware.md)
 * :newspaper: [Guide To Setup Grafana Dashboard](https://github.com/yorickdowne/grafana-for-rpool)
+* :newspaper: [Guide/Security Best Practices For a ETH2 Validator Beaconchain Node](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
 * :newspaper: [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
   - :tv: [Demo](https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker)
+* :tv: [Ethereum 2.0 physical and Linux security](https://www.youtube.com/watch?v=hHtvCGlPz-o&ab_channel=YorickDowne)
 
 #### rETH Staker Guides
 
@@ -104,6 +106,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :hammer_and_wrench: [Rocket Pool Tool (Website With Built-In Calculator)](https://www.rocketpooltool.com/)
 * :hammer_and_wrench: [Rocket Pool Gas Estimates](https://docs.google.com/spreadsheets/d/1KhAhByZ4JbJxdVfhSoKzZvjvUKuSXnB9alJS8FmbtA4/edit?usp=sharing)
 * :trophy: [Rocket Pool Beta 3 Leaderboard](https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/)
+* :chart: [RPL Yield for Node Operators Calculator](https://tommw.shinyapps.io/RPL_apy/)
 * :chart: Node Operator Dashboard - by beaconcha.in (In Development)
 
 ### FAQ
