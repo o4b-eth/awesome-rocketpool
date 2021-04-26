@@ -23,7 +23,7 @@ The information below is put together from various social media sources. (E.g. R
 * [Why isn't RPL currently listed on a major exchange like Coinbase?](https://discord.com/channels/405159462932971535/709960470953590825/834968369895047179)
 * [Will there be a reserve pool so non-node operators can put their RPL to good use?](https://discord.com/channels/405159462932971535/704196071881965589/831427079382892554)
 * Is there going to be a new RPL token on the initial mainnet release?
-   - [Confirmation By Darcius](https://discord.com/channels/405159462932971535/704196071881965589/805965393846861866)
+   - [Confirmation by Darcius](https://discord.com/channels/405159462932971535/704196071881965589/805965393846861866)
    - [Link to smart contract](https://discord.com/channels/405159462932971535/709960470953590825/800513269257207868)
 
 ## :rocket: Beta
