@@ -16,7 +16,8 @@ The information below is put together from various social media sources. (E.g. R
   - [There is an application pending for Maker to accept rEth as collateral](https://vote.makerdao.com/polling/QmV4YgXs?network=mainnet#poll-detail)
     - :bangbang: This is current up for vote. The voting is available for 14 days and started on 19/04/2021. 
   - [There is an application pending for Aave to accept rEth as collateral](https://governance.aave.com/t/proposal-add-support-for-reth-token/3585)
-
+* Do I need to pay taxes when swapping to rEth?
+  - (Not Financial Advice) This differs based on the country you are in. Please consult with a tax consultant.
 
 ## :moneybag: RPL
 * [What is the point of owning RPL?](https://www.reddit.com/r/ethstaker/comments/mwib11/rocketpool_community_resources/gvkik78?utm_source=share&utm_medium=web2x&context=3)
@@ -26,8 +27,10 @@ The information below is put together from various social media sources. (E.g. R
   - [What happens if I don't have enough ETH to claim my RPL rewards?](https://discord.com/channels/405159462932971535/468923220607762485/823742118262210580)
   - [What happens if my RPL stake drops below the minimum required of 10%?](https://discord.com/channels/405159462932971535/704196071881965589/802796013923336192)
 * Is there going to be a new RPL token on the initial mainnet release?
-   - [Confirmation by Darcius](https://discord.com/channels/405159462932971535/704196071881965589/805965393846861866)
-   - [Link to smart contract](https://discord.com/channels/405159462932971535/709960470953590825/800513269257207868)
+  - [Confirmation by Darcius](https://discord.com/channels/405159462932971535/704196071881965589/805965393846861866)
+  - [Link to smart contract](https://discord.com/channels/405159462932971535/709960470953590825/800513269257207868)
+* Do I need to pay taxes on the RPL rewards?
+  - (Not Financial Advice) This differs based on the country you are in. Please consult with a tax consultant.
 
 ## :rocket: Beta
 
