@@ -89,6 +89,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 #### Node Operator Guides
 * :newspaper: [Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
+* :newspaper: [The Best Ways To Secure Your SSH Server](https://www.howtogeek.com/443156/the-best-ways-to-secure-your-ssh-server/)
 * :newspaper: [Setting up Rocket Pool on a Raspberry Pi](https://github.com/jclapis/rp-pi-guide/blob/main/Overview.md)
 * :newspaper: [Selecting Staking Hardware](https://github.com/jclapis/rocketpool.github.io/blob/main/src/guides/local/hardware.md)
 * :newspaper: [Guide To Setup Grafana Dashboard](https://github.com/yorickdowne/grafana-for-rpool)
