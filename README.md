@@ -94,6 +94,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Guide To Setup Grafana Dashboard](https://github.com/yorickdowne/grafana-for-rpool)
 * :newspaper: [Guide/Security Best Practices For a ETH2 Validator Beaconchain Node](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
 * :newspaper: [Home Staking Security Questions](https://old.reddit.com/r/ethstaker/comments/iqq2tv/home_staking_security_questions/)
+* :newspaper: [Netcup Initial setup for Rocket Pool](https://gist.github.com/yorickdowne/7fbde369ee1979efa2cfd181259a94e3)
 * :newspaper: [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
   - :tv: [Demo](https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker)
 * :tv: [Ethereum 2.0 physical and Linux security](https://www.youtube.com/watch?v=hHtvCGlPz-o&ab_channel=YorickDowne)
