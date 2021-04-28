@@ -121,7 +121,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### Competitor Comparisons
 
-* :crossed_swords: TODO Competitor Comparison #1
+* :crossed_swords: [Staking Services Comparison By Beaconcha.in](https://beaconcha.in/stakingServices)
 
 ---
 
