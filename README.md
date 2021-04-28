@@ -24,7 +24,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
   - [Guides](#guides)
   - [Tools](#tools)
   - [FAQ](#faq)
-  - [Competitor Comparisons](#competitor-comparisons)
 - [Misc](#alien-misc)
   - [Market information](#market-information) 
   - [Eth2 Clients](#eth2-clients)
@@ -89,6 +88,8 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### Guides
 
+* : newspaper: [Staking services comparison by beaconcha.in](https://beaconcha.in/stakingServices)
+
 #### Node Operator Guides
 * :newspaper: [Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
 * :newspaper: [The Best Ways To Secure Your SSH Server](https://www.howtogeek.com/443156/the-best-ways-to-secure-your-ssh-server/)
@@ -118,10 +119,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ### FAQ
 
 * :link: [Located On Separate Page](Community%20FAQ.md)
-
-### Competitor Comparisons
-
-* :crossed_swords: [Staking Services Comparison By Beaconcha.in](https://beaconcha.in/stakingServices)
 
 ---
 
