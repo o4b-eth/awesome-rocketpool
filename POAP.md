@@ -17,4 +17,4 @@ Being part of the awesome Rocket Pool community has its fair share of great mome
 ## Rocket Pool Fun Friday Raffle
 
 On 01.05.2021 at 04:00 (UTC+2) there will be a raffle to celebrate the many RocketPool POAPS. 
-More info can be found [here](https://poap.fun/191)
+More info can be found [here](https://poap.fun/191).
