@@ -26,7 +26,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
   - [FAQ](#faq)
 - [Misc](#alien-misc)
   - [Market information](#market-information) 
-  - [Eth2 Clients](#eth2-clients)
+
 ---
 
 ## :rocket: Official
@@ -128,7 +128,3 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :chart_with_upwards_trend: [CoinGecko](https://www.coingecko.com/en/coins/rocket-pool)
 * :chart_with_upwards_trend: [Etherscan](https://etherscan.io/token/0xb4efd85c19999d84251304bda99e90b92300bd93#balances)
-
-### ETH2 Clients
-
-* :computer: TODO
