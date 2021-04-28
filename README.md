@@ -88,7 +88,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### Guides
 
-* : newspaper: [Staking services comparison by beaconcha.in](https://beaconcha.in/stakingServices)
+* :newspaper: [Staking services comparison by beaconcha.in](https://beaconcha.in/stakingServices)
 
 #### Node Operator Guides
 * :newspaper: [Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
