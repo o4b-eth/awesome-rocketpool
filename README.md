@@ -82,6 +82,10 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :tv: [Rocket Pool Quiz Game](https://youtu.be/-YdBslzHGec?t=1178)
 * :tv: [Rocket Pool Tokenomics](https://youtu.be/cIXWF512srA?t=53)
 
+### POAP
+
+:link: [Located On A Separate Page]
+
 ### Community Explainer Series
 
 * :tv: [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
