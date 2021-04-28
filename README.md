@@ -84,7 +84,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ### POAP
 
-:link: [Located On A Separate Page]
+:link: [Located On A Separate Page](POAP.md)
 
 ### Community Explainer Series
 
