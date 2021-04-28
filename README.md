@@ -63,6 +63,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Shrimpy Academy - What Is Rocket Pool?](https://academy.shrimpy.io/post/what-is-rocket-pool)
 * :tv: [Bankless - Interview w/ CTO David Rugendyke](https://www.youtube.com/watch?v=cqf6aJCFZn8)
 * :tv: [Bankless - David Hoffman on RocketPool mechanics](https://www.youtube.com/watch?v=JAatzA-QE10&t=516s)
+* :tv: [EthHub Weekly - Why Rocketpool is truly decentralized](https://www.youtube.com/watch?v=8o-_Dw_qSfk&t=2607s)
 
 ---
 
