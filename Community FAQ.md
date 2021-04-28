@@ -26,6 +26,7 @@ The information below is put together from various social media sources. (E.g. R
 * Reasons I didn't receive my RPL node operator rewards:
   - [What happens if I don't have enough ETH to claim my RPL rewards?](https://discord.com/channels/405159462932971535/468923220607762485/823742118262210580)
   - [What happens if my RPL stake drops below the minimum required of 10%?](https://discord.com/channels/405159462932971535/704196071881965589/802796013923336192)
+* [How much is the gas cost to claim the RPL rewards?](https://docs.google.com/spreadsheets/d/1A5Ef2gpuukoDWSyu2C9SEZOrqbB02Sx1ojhePMCpnvw/edit)
 * Is there going to be a new RPL token on the initial mainnet release?
   - [Confirmation by Darcius](https://discord.com/channels/405159462932971535/704196071881965589/805965393846861866)
   - [Link to smart contract](https://discord.com/channels/405159462932971535/709960470953590825/800513269257207868)
