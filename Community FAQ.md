@@ -11,7 +11,7 @@ The information below is put together from various social media sources. (E.g. R
 
 ## :moneybag: rETH
 
-* [Do we keep our keys if we use Rocket Pool as a regular staker?](https://www.reddit.com/r/rocketpool/comments/n186fg/do_we_keep_our_eth_keys_if_we_use_rocket_pool_as/gwbg5ye?utm_medium=android_app&utm_source=share&context=3l)
+* [Do we keep our keys if we use Rocket Pool as a regular staker?](https://www.reddit.com/r/rocketpool/comments/n186fg/do_we_keep_our_eth_keys_if_we_use_rocket_pool_as/gwbg5ye?utm_medium=android_app&utm_source=share&context=3)
 * [What is expected of the rETH/ETH ratio](https://discord.com/channels/405159462932971535/468923220607762485/823816997417517067)
 * Will I be able to use my rEth as collateral in DeFi?
   - [There is an application pending for Maker to accept rEth as collateral](https://vote.makerdao.com/polling/QmV4YgXs?network=mainnet#poll-detail)
