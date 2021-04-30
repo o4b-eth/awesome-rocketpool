@@ -72,7 +72,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ## :speak_no_evil: Community
 
 * :newspaper: [Rocket Pool Poem](https://www.reddit.com/r/ethstaker/comments/mtdggd/a_short_poem_created_for_my_friends_in_the_rocket/?utm_medium=android_app&utm_source=share)
-  - :tv: ['Twas the night before Rocket Pool] (https://youtu.be/AhwRUZa6f5Y)
+  - :tv: [Twas the night before Rocket Pool] (https://youtu.be/AhwRUZa6f5Y)
 
 ### Investment Opinions
 
