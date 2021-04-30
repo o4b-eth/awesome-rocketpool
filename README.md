@@ -71,9 +71,6 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ## :speak_no_evil: Community
 
-* :newspaper: [Rocket Pool Poem](https://www.reddit.com/r/ethstaker/comments/mtdggd/a_short_poem_created_for_my_friends_in_the_rocket/?utm_medium=android_app&utm_source=share)
-  - :tv: ['Twas the night before Rocket Pool](https://youtu.be/AhwRUZa6f5Y)
-
 ### Investment Opinions
 
 * :newspaper: [Rocket Pool Investment Thesis - Original](https://www.reddit.com/r/ethfinance/comments/m3pug8/the_rocket_pool_investment_thesis/)
@@ -87,6 +84,9 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :tv: [Community Call #14 - David Rugendyke](https://youtu.be/uK_ioljAXy0?t=187)
 * :tv: [Rocket Pool Quiz Game](https://youtu.be/-YdBslzHGec?t=1178)
 * :tv: [Rocket Pool Tokenomics](https://youtu.be/cIXWF512srA?t=53)
+* :newspaper: [Rocket Pool Poem](https://www.reddit.com/r/ethstaker/comments/mtdggd/a_short_poem_created_for_my_friends_in_the_rocket/?utm_medium=android_app&utm_source=share)
+  - :tv: ['Twas the night before Rocket Pool](https://youtu.be/AhwRUZa6f5Y)
+
 
 ### POAP
 
