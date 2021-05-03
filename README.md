@@ -34,11 +34,12 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 ## :rocket: Official
 * :globe_with_meridians: [Website](https://www.rocketpool.net)
-* :newspaper: [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
-* :newspaper: [Docs](https://rocket-pool.readthedocs.io/en/latest/)
-* :newspaper: [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
+* :newspaper: [Docs](https://docs.rocketpool.net/)
+  - :newspaper: [Glossary](https://docs.rocketpool.net/documentation/glossary.html)
+  - :newspaper: [Whitepaper](https://docs.rocketpool.net/whitepaper/)
+  - :newspaper: [Guides](https://docs.rocketpool.net/guides/)
+  - :newspaper: [FAQ](https://docs.rocketpool.net/overview/faq/#general)
 * :newspaper: [DAO Forums](https://dao.rocketpool.net/)
-* :newspaper: [Glossary](https://github.com/htimsk/rocketpool.github.io/blob/main/src/documentation/glossary.md)
 
 ### Official Explainer Series
 * :newspaper: [Explainer Series Part 1 - Overview And Users](https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd)
