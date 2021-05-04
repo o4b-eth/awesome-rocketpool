@@ -9,6 +9,10 @@ The information below is put together from various social media sources. (E.g. R
 * [When/how will we know who is in the Oracle DAO?](https://discord.com/channels/405159462932971535/704196071881965589/812110740995178496)
 * [Why can't the Protocol DAO (RPL token holders) hold these responsibilites?](https://discord.com/channels/405159462932971535/704196071881965589/812112820350746644)
 
+
+## :computer: Node Operation
+* [How does Node Commission get assigned during mini-pool creation, and what does percentage that a Node Operator chooses during minipool creation do exactly?](https://discord.com/channels/405159462932971535/704196071881965589/839018293540552716)
+
 ## :moneybag: rETH
 
 * [Do we keep our keys if we use Rocket Pool as a regular staker?](https://www.reddit.com/r/rocketpool/comments/n186fg/do_we_keep_our_eth_keys_if_we_use_rocket_pool_as/gwbg5ye?utm_medium=android_app&utm_source=share&context=3)
