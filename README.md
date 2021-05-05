@@ -38,8 +38,8 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
   - :newspaper: [Glossary](https://docs.rocketpool.net/documentation/glossary.html)
   - :newspaper: [Whitepaper](https://docs.rocketpool.net/whitepaper/)
   - :newspaper: [Guides](https://docs.rocketpool.net/guides/) Includes guides on selecting platform & hardware, running clients efficiently, and securing systems.
-  	- ::  :newspaper: [Selecting Hardware](https://docs.rocketpool.net/guides/node/hardware.html)
-  	- ::  :newspaper: [Securing Your Node](https://docs.rocketpool.net/guides/node/securing-your-node.html)
+  	- :newspaper: [Selecting Hardware](https://docs.rocketpool.net/guides/node/hardware.html)
+  	- :newspaper: [Securing Your Node](https://docs.rocketpool.net/guides/node/securing-your-node.html)
   - :newspaper: [FAQ](https://docs.rocketpool.net/overview/faq/#general)
 * :newspaper: [DAO Forums](https://dao.rocketpool.net/)
 
