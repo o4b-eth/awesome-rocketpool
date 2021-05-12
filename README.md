@@ -99,6 +99,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :tv: [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
 * :tv: [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
+* :tv: [Rocket Pool Explainer Series: Part Three - Logic Beach](https://youtu.be/8mvXzu020Is)
 
 ### Guides
 
