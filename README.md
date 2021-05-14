@@ -117,6 +117,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
   - :tv: [Demo](https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker)
 * :tv: [Ethereum 2.0 physical and Linux security](https://www.youtube.com/watch?v=hHtvCGlPz-o&ab_channel=YorickDowne)
+* :newspaper: [Instructions for using and Aegis Secure Key with Rocket Pool](https://github.com/htimsk/SecureKey)
 
 #### rETH Staker Guides
 
