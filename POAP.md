@@ -15,3 +15,4 @@ Being part of the awesome Rocket Pool community has its fair share of great mome
 * :1st_place_medal: [Dybsy Bot and Blockchain Detective Friends](https://poap.gallery/event/1769)
 * :1st_place_medal: [DrDoofus](https://poap.gallery/event/1926)
 * :1st_place_medal: [Proof of European Protocol](https://poap.gallery/event/2092)
+* :1st_place_medal: [Moon MIssion Crew Patch](https://poap.gallery/event/2334)
