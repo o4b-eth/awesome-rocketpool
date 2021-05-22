@@ -27,6 +27,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
   - [Guides](#guides)
   - [Tools](#community-tools)
   - [FAQ](#faq)
+  - [Rocket Pool Inspired Art & Entertainment](#rocket-pool-inspired-art-and-entertainment)
 - [Misc](#alien-misc)
   - [Market information](#market-information) 
 
@@ -135,6 +136,10 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 ### FAQ
 
 * :link: [Located On Separate Page](Community%20FAQ.md)
+
+### Rocket Pool Inspired Art and Entertainment
+
+* :link: [The RPL Astronaut Cat by Antoine](https://www.youtube.com/watch?v=a9f8rxdpmb0&ab_channel=TheRPLAstronautCat)
 
 ---
 
