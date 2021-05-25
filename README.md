@@ -131,6 +131,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :hammer_and_wrench: [Rocket Pool Tool (Website With Built-In Calculator)](https://www.rocketpooltool.com/)
 * :hammer_and_wrench: [Rocket Pool Moon Math Sheet](https://discord.com/channels/405159462932971535/405163713063288832/820009733020844043)
 * :chart: [RPL Yield for Node Operators Calculator](https://tommw.shinyapps.io/RPL_apy/)
+* :chart: [Rocket Ratio Gang - RPL/ETH ratio tracker](https://www.rocketratiogang.com/)
 * :chart: Node Operator Dashboard - by beaconcha.in (In Development)
 
 ### FAQ
