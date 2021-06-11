@@ -18,8 +18,7 @@ The information below is put together from various social media sources. (E.g. R
 * [Do we keep our keys if we use Rocket Pool as a regular staker?](https://www.reddit.com/r/rocketpool/comments/n186fg/do_we_keep_our_eth_keys_if_we_use_rocket_pool_as/gwbg5ye?utm_medium=android_app&utm_source=share&context=3)
 * [What is expected of the rETH/ETH ratio](https://discord.com/channels/405159462932971535/468923220607762485/823816997417517067)
 * Will I be able to use my rEth as collateral in DeFi?
-  - [There is an application pending for Maker to accept rEth as collateral](https://vote.makerdao.com/polling/QmV4YgXs?network=mainnet#poll-detail)
-    - :bangbang: This is current up for vote. The voting is available for 14 days and started on 19/04/2021. 
+  - [There is an application greenlit for Maker to accept rEth as collateral](https://vote.makerdao.com/polling/QmV4YgXs?network=mainnet#poll-detail)
   - [There is an application pending for Aave to accept rEth as collateral](https://governance.aave.com/t/proposal-add-support-for-reth-token/3585)
 * Do I need to pay taxes when swapping to rEth?
   - (Not Financial Advice) This differs based on the country you are in. Please consult with a tax consultant.
@@ -49,3 +48,4 @@ The information below is put together from various social media sources. (E.g. R
   - [04/20/2021 - Update #1](https://discord.com/channels/405159462932971535/405163979141545995/833934887064305684)
   - [04/20/2021 - Update #2](https://discord.com/channels/405159462932971535/405163979141545995/833934895397994537)
   - [04/27/2021 - Beta ending on 04/30/2021](https://discord.com/channels/405159462932971535/405163979141545995/836462590023434250)
+  - 05/17/2021 - Sigma Prime starting re-audit to check improvements are made correctly

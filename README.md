@@ -38,7 +38,9 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Docs](https://docs.rocketpool.net/)
   - :newspaper: [Glossary](https://docs.rocketpool.net/documentation/glossary.html)
   - :newspaper: [Whitepaper](https://docs.rocketpool.net/whitepaper/)
-  - :newspaper: [Guides](https://docs.rocketpool.net/guides/)
+  - :newspaper: [Guides](https://docs.rocketpool.net/guides/) Includes guides on selecting platform & hardware, running clients efficiently, and securing systems.
+  	- :newspaper: [Selecting Hardware](https://docs.rocketpool.net/guides/node/hardware.html)
+  	- :newspaper: [Securing Your Node](https://docs.rocketpool.net/guides/node/securing-your-node.html)
   - :newspaper: [FAQ](https://docs.rocketpool.net/overview/faq/#general)
 * :newspaper: [DAO Forums](https://dao.rocketpool.net/)
 
@@ -98,6 +100,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 * :tv: [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
 * :tv: [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
+* :tv: [Rocket Pool Explainer Series: Part Three - Logic Beach](https://youtu.be/8mvXzu020Is)
 
 ### Guides
 
@@ -115,6 +118,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Decentralized Graffiti Drawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing)
   - :tv: [Demo](https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker)
 * :tv: [Ethereum 2.0 physical and Linux security](https://www.youtube.com/watch?v=hHtvCGlPz-o&ab_channel=YorickDowne)
+* :newspaper: [Instructions for using and Aegis Secure Key with Rocket Pool](https://github.com/htimsk/SecureKey)
 
 #### rETH Staker Guides
 
@@ -127,6 +131,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :hammer_and_wrench: [Rocket Pool Tool (Website With Built-In Calculator)](https://www.rocketpooltool.com/)
 * :hammer_and_wrench: [Rocket Pool Moon Math Sheet](https://discord.com/channels/405159462932971535/405163713063288832/820009733020844043)
 * :chart: [RPL Yield for Node Operators Calculator](https://tommw.shinyapps.io/RPL_apy/)
+* :chart: [Rocket Ratio Gang - RPL/ETH ratio tracker](https://www.rocketratiogang.com/)
 * :chart: Node Operator Dashboard - by beaconcha.in (In Development)
 
 ### FAQ
