@@ -26,3 +26,4 @@ Being part of the awesome Rocket Pool community has its fair share of great mome
 * :1st_place_medal: [Jcrtp presents 0x02](https://poap.gallery/event/2658)
 * :1st_place_medal: [Rocket Pool Babies](https://poap.gallery/event/2196)
 * :1st_place_medal: [39 Thumbs](https://poap.gallery/event/2725)
+* :1st_place_medal: [Rocket Pool Waiting Game](https://poap.gallery/event/2892)
