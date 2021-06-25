@@ -27,3 +27,7 @@ Being part of the awesome Rocket Pool community has its fair share of great mome
 * :1st_place_medal: [Rocket Pool Babies](https://poap.gallery/event/2196)
 * :1st_place_medal: [39 Thumbs](https://poap.gallery/event/2725)
 * :1st_place_medal: [Rocket Pool Waiting Game](https://poap.gallery/event/2892)
+* :1st_place_medal: [RP Titanic](https://poap.gallery/event/2981)
+* :1st_place_medal: [Dog Days in RP Discord (1st Edition)](https://poap.gallery/event/3107)
+* :1st_place_medal: [Rocket Pool Poster Raffle](https://poap.gallery/event/3145)
+* :1st_place_medal: [Rocket Pool Cool](https://poap.gallery/event/3252)
