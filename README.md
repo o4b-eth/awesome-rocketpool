@@ -119,6 +119,9 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
   - :tv: [Demo](https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker)
 * :tv: [Ethereum 2.0 physical and Linux security](https://www.youtube.com/watch?v=hHtvCGlPz-o&ab_channel=YorickDowne)
 * :newspaper: [Instructions for using and Aegis Secure Key with Rocket Pool](https://github.com/htimsk/SecureKey)
+* :newspaper: [A VPS Guide for Rocket Pool](https://dkderek.medium.com/a-vps-guide-for-rocket-pool-1d0f19855b6d)
+* :newspaper: [Netdata Quick Install & Config Guide](https://dkderek.medium.com/netdata-quick-install-config-guide-729b3474a9e4)
+* :newspaper: [Pruning Geth on your Rocket Pool node](hhttps://dkderek.medium.com/pruning-geth-on-your-rocket-pool-node-cb781b3558d4)
 
 #### rETH Staker Guides
 
