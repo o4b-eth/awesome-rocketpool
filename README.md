@@ -1,3 +1,5 @@
+**IMPORTANT:** superphiz did not create this content and I do not curate it. I accepted custody of this content as a temporary custodian for someone who could no longer maintain it. Please understand that this content may be out of date, and please offer to take stewardship of this if you are a good candidate. -phiz 2021-11-27
+
 <div align="center">
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome RocketPool">
