@@ -1,55 +1,205 @@
-# Rocket Pool POAP's
+# Rocket Pool POAPs
 
 Being part of the awesome Rocket Pool community has its fair share of great moments. Some of these moments even how their own [POAP](https://www.poap.xyz/). 
 
+| Image | Name | Date | Supply |
+| -- | -- | -- | -- |
+| <img src="https://assets.poap.xyz/community-call-14-w-david-rugendyke-2020-logo-1607914168420.png" width="100" /> | [Community Call #14 w/ David Rugendyke](https://poap.gallery/event/601) | 14-Dec-2020 | 81 |
+| <img src="https://assets.poap.xyz/the-0xcc-rpl-dumpening-2021-logo-1615311569763.png" width="100" /> | [The 0xcc RPL Dumpening](https://poap.gallery/event/1161) | 09-Feb-2021 | 42 |
+| <img src="https://assets.poap.xyz/ethstaker-community-call-16-team-teku-2021-logo-1613588491202.png" width="100" /> | [EthStaker Community Call #16: Team Teku](https://poap.gallery/event/992) | 20-Feb-2021 | 34 |
+| <img src="https://assets.poap.xyz/eth-staker-community-quiz-show-3-rocket-pool-viewer-2021-logo-1615687739589.png" width="100" /> | [ETH Staker Community Quiz Show #3: Rocket Pool - Viewer](https://poap.gallery/event/1214) | 13-Mar-2021 | 71 |
+| <img src="https://assets.poap.xyz/eth-staker-community-quiz-show-3-rocket-pool-participant-2021-logo-1615688010594.png" width="100" /> | [ETH Staker Community Quiz Show #3: Rocket Pool - Participant](https://poap.gallery/event/1215) | 13-Mar-2021 | 22 |
+| <img src="https://assets.poap.xyz/eth-staker-community-quiz-show-3-rocket-pool-winner-2021-logo-1615688363698.png" width="100" /> | [ETH Staker Community Quiz Show #3: Rocket Pool - Winner](https://poap.gallery/event/1216) | 13-Mar-2021 | 1 |
+| <img src="https://assets.poap.xyz/the-0x6b-rpl-dumpening-2021-logo-1618107986117.png" width="100" /> | [The 0x6b RPL Dumpening](https://poap.gallery/event/1616) | 05-Apr-2021 | 69 |
+| <img src="https://assets.poap.xyz/bigpoap69-2021-logo-1617942256149.png" width="100" /> | [bigPOAP69](https://poap.gallery/event/1595) | 08-Apr-2021 | 34 |
+| <img src="https://assets.poap.xyz/rocket-pool-inb4-20-2021-logo-1618332855846.png" width="100" /> | [Rocket Pool inb4 $20](https://poap.gallery/event/1654) | 13-Apr-2021 | 109 |
+| <img src="https://assets.poap.xyz/rocket-pool-tokenomics-chat-2021-logo-1618359631817.png" width="100" /> | [Rocket Pool Tokenomics Chat](https://poap.gallery/event/1656) | 13-Apr-2021 | 65 |
+| <img src="https://assets.poap.xyz/berlin-hardfork-poapart-event-2021-logo-1618488486996.png" width="100" /> | [RocketPool Berlin POAP.art event](https://poap.gallery/event/1685) | 15-Apr-2021 | 22 |
+| <img src="https://assets.poap.xyz/dybsy-bot-and-blockchain-detective-friends-2021-logo-1618967119789.png" width="100" /> | [Dybsy Bot and Blockchain Detective Friends](https://poap.gallery/event/1769) | 20-Apr-2021 | 42 |
+| <img src="https://assets.poap.xyz/rocket-pool-owlbear-2021-logo-1619118685597.png" width="100" /> | [Rocket Pool OwlBear ](https://poap.gallery/event/1818) | 22-Apr-2021 | 34 |
+| <img src="https://assets.poap.xyz/jason-kasper-2021-logo-1619811825687.png" width="100" /> | [DrDoofus](https://poap.gallery/event/1926) | 30-Apr-2021 | 48 |
+| <img src="https://assets.poap.xyz/may-the-fourth-be-with-you-2021-2021-logo-1620173713094.png" width="100" /> | [May the Fourth be With You 2021](https://poap.gallery/event/2013) | 04-May-2021 | 45 |
+| <img src="https://assets.poap.xyz/poep-2021-logo-1620578502227.png" width="100" /> | [POEP](https://poap.gallery/event/2092) | 09-May-2021 | 64 |
+| <img src="https://assets.poap.xyz/rocket-pool-tokenomics-logicbeacheth-video-release-poap-2021-logo-1620774957824.png" width="100" /> | [Rocket Pool Tokenomics - LogicBeach.eth video release POAP](https://poap.gallery/event/2162) | 11-May-2021 | 98 |
+| <img src="https://assets.poap.xyz/the-rpl-doldrums-2021-logo-1620870368509.png" width="100" /> | [The RocketPool Doldrums](https://poap.gallery/event/2173) | 12-May-2021 | 94 |
+| <img src="https://assets.poap.xyz/rocket-pool-sassano-validator-fix-2021-logo-1621308462408.png" width="100" /> | [Rocket Pool Sassano Validator Fix](https://poap.gallery/event/2273) | 17-May-2021 | 121 |
+| <img src="https://assets.poap.xyz/rocket-pool-moon-mission-crew-patch-2021-logo-1621442317195.png" width="100" /> | [Rocket Pool Moon Mission Crew Patch](https://poap.gallery/event/2334) | 20-May-2021 | 374 |
+| <img src="https://assets.poap.xyz/the-rpl-astronaut-cat-2021-logo-1621606591720.png" width="100" /> | [The RPL Astronaut Cat](https://poap.gallery/event/2298) | 21-May-2021 | 49 |
+| <img src="https://assets.poap.xyz/rocket-pool-penguin-shinanigans-2021-logo-1621991878054.png" width="100" /> | [Rocket Pool Penguin shinanigans](https://poap.gallery/event/2448) | 25-May-2021 | 147 |
+| <img src="https://assets.poap.xyz/rocketpool-discord-and-the-goat-jcrtp-save-the-future-of-ethereum-2021-logo-1622211483857.png" width="100" /> | [Rocketpool Discord and the GOAT jcrtp save the future of Ethereum!](https://poap.gallery/event/2502) | 27-May-2021 | 147 |
+| <img src="https://assets.poap.xyz/jcrtp-presents-0x02-2021-logo-1622734462064.png" width="100" /> | [Jcrtp presents 0x02](https://poap.gallery/event/2658) | 03-Jun-2021 | 75 |
+| <img src="https://assets.poap.xyz/dr-doofus-2021-logo-1623190778610.png" width="100" /> | [Rocket Pool Babies](https://poap.gallery/event/2196) | 06-Jun-2021 | 294 |
+| <img src="https://assets.poap.xyz/rocket-pool-waiting-game-poap-2021-logo-1623448942827.png" width="100" /> | [Rocket Pool Waiting Game POAP](https://poap.gallery/event/2892) | 11-Jun-2021 | 310 |
+| <img src="https://assets.poap.xyz/dog-days-in-rp-discord-1st-edition-2021-logo-1623903441984.png" width="100" /> | [Dog Days in RP Discord (1st Edition)](https://poap.gallery/event/3107) | 16-Jun-2021 | 286 |
+| <img src="https://assets.poap.xyz/rocket-pool-poster-raffle-2021-logo-1623967750982.png" width="100" /> | [Rocket Pool Poster Raffle ](https://poap.gallery/event/3145) | 17-Jun-2021 | 417 |
+| <img src="https://assets.poap.xyz/rocket-pool-cool-2021-logo-1624299827329.png" width="100" /> | [Rocket Pool Cool](https://poap.gallery/event/3252) | 20-Jun-2021 | 28 |
+| <img src="https://assets.poap.xyz/dog-days-in-rp-discord-2nd-edition-2021-logo-1624676815614.png" width="100" /> | [Dog Days in RP Discord (2nd Edition)](https://poap.gallery/event/3423) | 26-Jun-2021 | 191 |
+| <img src="https://assets.poap.xyz/rocket-pool-announces-the-prater-testnet-launch-in-three-weeks-2021-logo-1626151329220.png" width="100" /> | [Rocket Pool announces the Prater Testnet launch in three weeks](https://poap.gallery/event/4041) | 12-Jul-2021 | 55 |
+| <img src="https://assets.poap.xyz/rocketpool-testnet-launchdate-on-prater-2021-logo-1626179001235.png" width="100" /> | [Rocketpool Testnet Launchdate on Prater](https://poap.gallery/event/4050) | 13-Jul-2021 | 216 |
+| <img src="https://assets.poap.xyz/dog-days-in-rp-discord-3rd-edition-2021-logo-1626194872641.png" width="100" /> | [Dog Days in RP Discord (3rd Edition)](https://poap.gallery/event/4055) | 13-Jul-2021 | 296 |
+| <img src="https://assets.poap.xyz/bankless-eth-staking-panel-rocket-pool-coinbase-lido-2021-logo-1626313606633.png" width="100" /> | [Bankless ETH Staking Panel \| Rocket Pool, Coinbase, Lido](https://poap.gallery/event/4124) | 13-Jul-2021 | 134 |
+| <img src="https://assets.poap.xyz/bankless-eth-staking-panel-rocket-pool-coinbase-lido-rp-discord-limited-edition-2021-logo-1626312815639.png" width="100" /> | [Bankless ETH Staking Panel \| Rocket Pool, Coinbase, Lido \| RP DISCORD LIMITED EDITION](https://poap.gallery/event/4125) | 14-Jul-2021 | 85 |
+| <img src="https://assets.poap.xyz/david-hoffman-visits-rocketpool-discord-trading-be-we-were-ready-this-time-2021-logo-1626325849572.png" width="100" /> | [David Hoffman visits Rocketpool Discord #trading... but we were ready this time!](https://poap.gallery/event/4149) | 15-Jul-2021 | 26 |
+| <img src="https://assets.poap.xyz/contrabandeth-rocketpool-t-shirt-giveaway-2021-logo-1627766041258.png" width="100" /> | [Contraband.eth RocketPool T-shirt Giveaway](https://poap.gallery/event/4884) | 31-Jul-2021 | 132 |
+| <img src="https://assets.poap.xyz/rocket-pool-prater-testnet-launch-call-2021-logo-1627852025217.png" width="100" /> | [Rocket Pool Prater Testnet Launch Call](https://poap.gallery/event/4935) | 01-Aug-2021 | 472 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-rocket-pool-rc7-validator-workshop-2021-logo-1630155886554.png" width="100" /> | [EthStaker Presents: Rocket Pool RC7 Validator Workshop](https://poap.gallery/event/6518) | 28-Aug-2021 | 1253 |
+| <img src="https://assets.poap.xyz/rocket-pool-pre-launch-systems-check-rc7-validator-workshop-2021-logo-1630156267796.png" width="100" /> | [Rocket Pool Pre-Launch Systems Check: RC7 Validator Workshop](https://poap.gallery/event/6519) | 28-Aug-2021 | 3392 |
+| <img src="https://assets.poap.xyz/another-rpl-dumpback-whale-struck-out-0x16-2021-logo-1630770911942.png" width="100" /> | [Another RPL Dumpback Whale Struck Out - 0x16](https://poap.gallery/event/6934) | 04-Sep-2021 | 317 |
+| <img src="https://assets.poap.xyz/this-is-a-test-poap-2021-logo-1630800644481.png" width="100" /> | [Rocket Pool - POAP](https://poap.gallery/event/6949) | 05-Sep-2021 | 4 |
+| <img src="https://assets.poap.xyz/rocketpool-discord-mclovin-and-the-gang-discover-tts-2021-logo-1631061128642.png" width="100" /> | [Rocketpool Discord - McLovin and the Gang Discover tts](https://poap.gallery/event/7088) | 07-Sep-2021 | 319 |
+| <img src="https://assets.poap.xyz/rocket-pool-kitty-2021-logo-1631159308480.png" width="100" /> | [Rocket Pool Kitty](https://poap.gallery/event/7205) | 07-Sep-2021 | 363 |
+| <img src="https://assets.poap.xyz/the-rocketpool-doldrums-pt-2-2021-logo-1631143393252.png" width="100" /> | [The RocketPool Doldrums pt. 2](https://poap.gallery/event/7188) | 08-Sep-2021 | 289 |
+| <img src="https://assets.poap.xyz/rocket-pool-pre-launch-systems-check-final-article-released-2021-logo-1631211590332.png" width="100" /> | [Rocket Pool Pre-Launch Systems Check: Final Article Released](https://poap.gallery/event/7249) | 09-Sep-2021 | 3430 |
+| <img src="https://assets.poap.xyz/rocket-pool-pre-launch-systems-check-trail-of-bits-audit-completed-2021-logo-1631211652996.png" width="100" /> | [Rocket Pool Pre-Launch Systems Check: Trail of Bits Audit Completed](https://poap.gallery/event/7250) | 09-Sep-2021 | 3497 |
+| <img src="https://assets.poap.xyz/the-smoigel-show-2021-logo-1631249339084.png" width="100" /> | [The Smoigel Show](https://poap.gallery/event/7312) | 09-Sep-2021 | 81 |
+| <img src="https://assets.poap.xyz/thomasg-series-15-whale-sighting-2021-logo-1631416190368.png" width="100" /> | [Thomasg Series (1/5): Whale Sighting](https://poap.gallery/event/7429) | 09-Sep-2021 | 102 |
+| <img src="https://assets.poap.xyz/rpl-night-owls-2021-logo-1631249035444.png" width="100" /> | [RPL Night Owls](https://poap.gallery/event/7307) | 10-Sep-2021 | 47 |
+| <img src="https://assets.poap.xyz/rocket-pool-whales-2021-logo-1631497080122.png" width="100" /> | [Rocket Pool Whales](https://poap.gallery/event/7465) | 11-Sep-2021 | 2 |
+| <img src="https://assets.poap.xyz/jeighterbomb-0008-2021-logo-1631401492787.png" width="100" /> | [Jeighterbomb 0.008](https://poap.gallery/event/7420) | 12-Sep-2021 | 288 |
+| <img src="https://assets.poap.xyz/rocket-pool-bot-catcher-poap-2021-logo-1631405468958.png" width="100" /> | [Rocket Pool Bot Catcher POAP](https://poap.gallery/event/7426) | 12-Sep-2021 | 1285 |
+| <img src="https://assets.poap.xyz/thomasg-the-rpl-tank-engine-2021-logo-1631473511363.png" width="100" /> | [Thomasg the RPL Tank Engine](https://poap.gallery/event/7459) | 12-Sep-2021 | 95 |
+| <img src="https://assets.poap.xyz/rocket-pool-pre-launch-systems-check-the-great-sell-wall-2021-logo-1631409615902.png" width="100" /> | [Rocket Pool Pre-Launch Systems Check: The Great Sell Wall](https://poap.gallery/event/7427) | 13-Sep-2021 | 6180 |
+| <img src="https://assets.poap.xyz/rocket-pool-wen-cex-2021-logo-1631519562653.png" width="100" /> | [Rocket Pool, wen cex?](https://poap.gallery/event/7483) | 13-Sep-2021 | 92 |
+| <img src="https://assets.poap.xyz/rp-discord-engages-in-forced-marriage-for-a-poap-2021-logo-1631540028401.png" width="100" /> | [RP Discord engages in forced marriage for a POAP](https://poap.gallery/event/7498) | 13-Sep-2021 | 1453 |
+| <img src="https://assets.poap.xyz/rocketpool-learns-chinese-2021-logo-1631546676602.png" width="100" /> | [Rocketpool Learns Chinese](https://poap.gallery/event/7512) | 13-Sep-2021 | 1976 |
+| <img src="https://assets.poap.xyz/nuking-the-bot-2021-logo-1631566404862.png" width="100" /> | [Nuking the bot](https://poap.gallery/event/7536) | 13-Sep-2021 | 47 |
+| <img src="https://assets.poap.xyz/0x25-the-fall-of-the-wall-2021-logo-1631592400470.png" width="100" /> | [0x25 - The Fall of the Wall](https://poap.gallery/event/7576) | 13-Sep-2021 | 434 |
+| <img src="https://assets.poap.xyz/nuking-the-eu-bot-2021-logo-1631610724101.png" width="100" /> | [Nuking the EU bot](https://poap.gallery/event/7588) | 13-Sep-2021 | 75 |
+| <img src="https://assets.poap.xyz/superphizeth-vs-logicbeacheth-poap-smackdown-2021-logo-1631628926284.png" width="100" /> | [superphiz.eth VS logicbeach.eth POAP Smackdown](https://poap.gallery/event/7603) | 14-Sep-2021 | 2478 |
+| <img src="https://assets.poap.xyz/mclovin-certified-degen-2021-logo-1631630155704.png" width="100" /> | [McLovin Certified Degen](https://poap.gallery/event/7605) | 14-Sep-2021 | 112 |
+| <img src="https://assets.poap.xyz/rocketpool-discord-poap-farms-2021-logo-1631730738380.png" width="100" /> | [Rocketpool Discord POAP Farms](https://poap.gallery/event/7712) | 15-Sep-2021 | 794 |
+| <img src="https://assets.poap.xyz/g7-summit-at-rp-trading-2021-logo-1631736750784.png" width="100" /> | [G7 Summit at RP #trading](https://poap.gallery/event/7725) | 15-Sep-2021 | 30 |
+| <img src="https://assets.poap.xyz/rocketpool-discord-breaks-poap-again-2021-logo-1631805654493.png" width="100" /> | [Rocketpool Discord Breaks POAP - AGAIN](https://poap.gallery/event/7805) | 16-Sep-2021 | 148 |
+| <img src="https://assets.poap.xyz/rocket-pool-celebrates-13k-holders-2021-logo-1631810918000.png" width="100" /> | [Rocket Pool Celebrates 13k Holders](https://poap.gallery/event/7812) | 16-Sep-2021 | 2972 |
+| <img src="https://assets.poap.xyz/rocket-pool-celebrates-13k-holders-troll-edition-2021-logo-1631814416605.png" width="100" /> | [Rocket Pool Celebrates 13k Holders - Troll Edition](https://poap.gallery/event/7822) | 16-Sep-2021 | 694 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-securing-your-rocket-pool-node-w-mentor-2021-logo-1631934631612.png" width="100" /> | [EthStaker Presents: Securing Your Rocket Pool Node w/ Mentor](https://poap.gallery/event/7928) | 18-Sep-2021 | 2256 |
+| <img src="https://assets.poap.xyz/rpl-reaches-001eth-2021-logo-1632078699415.png" width="100" /> | [RPL Reaches 0.01ETH](https://poap.gallery/event/8021) | 18-Sep-2021 | 195 |
+| <img src="https://assets.poap.xyz/trading-hangs-out-with-squishchaos-2021-logo-1632007244544.png" width="100" /> | [RP discord hangs out with @SquishChaos](https://poap.gallery/event/7976) | 19-Sep-2021 | 2376 |
+| <img src="https://assets.poap.xyz/rocketpool-jtnichol-arrives-in-trading-2021-logo-1632182991663.png" width="100" /> | [Rocketpool - jtnichol arrives in #trading](https://poap.gallery/event/8126) | 20-Sep-2021 | 100 |
+| <img src="https://assets.poap.xyz/gridrp-2021-logo-1632198661980.png" width="100" /> | [Grid+RP](https://poap.gallery/event/8148) | 20-Sep-2021 | 122 |
+| <img src="https://assets.poap.xyz/rocketpool-discord-fixes-poapfun-2021-logo-1632259307666.png" width="100" /> | [Rocketpool Discord Fixes POAP.fun](https://poap.gallery/event/8206) | 21-Sep-2021 | 104 |
+| <img src="https://assets.poap.xyz/rocketpool-discod-fixes-poapfun-2021-logo-1632380384498.png" width="100" /> | [Rocketpool Discod Fixes  POAP.fun](https://poap.gallery/event/8363) | 21-Sep-2021 | 54 |
+| <img src="https://assets.poap.xyz/2021-a-decentralised-odyssey-2021-logo-1632406934953.png" width="100" /> | [2021: A DECENTRALISED ODYSSEY](https://poap.gallery/event/8396) | 23-Sep-2021 | 50 |
+| <img src="https://assets.poap.xyz/rocketpool-discord-breaks-poap-yet-again-2021-logo-1632518848902.png" width="100" /> | [Rocketpool Discord Breaks POAP - YET AGAIN](https://poap.gallery/event/8563) | 24-Sep-2021 | 60 |
+| <img src="https://assets.poap.xyz/rocket-pool-bankless-crossover-event-2021-logo-1632801893174.png" width="100" /> | [Rocket Pool / Bankless Crossover event](https://poap.gallery/event/8790) | 27-Sep-2021 | 2702 |
+| <img src="https://assets.poap.xyz/rockpoolxmadison-2021-logo-1632817298535.png" width="100" /> | [Rock Pool x Madison](https://poap.gallery/event/8805) | 27-Sep-2021 | 200 |
+| <img src="https://assets.poap.xyz/the-daily-gwei-x-rocket-pool-2021-logo-1632797696682.png" width="100" /> | [The Daily Gwei X Rocket Pool](https://poap.gallery/event/8781) | 28-Sep-2021 | 643 |
+| <img src="https://assets.poap.xyz/rocket-pool-balancer-crossover-2021-logo-1632870918314.png" width="100" /> | [Rocket Pool + Balancer Crossover](https://poap.gallery/event/8898) | 29-Sep-2021 | 6791 |
+| <img src="https://assets.poap.xyz/reddit-rocket-pool-crossover-celebration-2021-logo-1632873934932.png" width="100" /> | [Reddit / Rocket Pool Crossover Celebration ](https://poap.gallery/event/8902) | 29-Sep-2021 | 16995 |
+| <img src="https://assets.poap.xyz/sushi-x-rocket-pool-crossover-celebration-2021-logo-1632874451780.png" width="100" /> | [Sushi x Rocket Pool: Crossover Celebration ](https://poap.gallery/event/8903) | 29-Sep-2021 | 1983 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-rocket-pool-team-ama-2021-logo-1632876041881.png" width="100" /> | [EthStaker Presents: Rocket Pool Team AMA](https://poap.gallery/event/8906) | 29-Sep-2021 | 2098 |
+| <img src="https://assets.poap.xyz/the-daily-gwei-x-rocket-pool-unfarmed-2021-logo-1632889364250.png" width="100" /> | [The Daily Gwei X Rocket Pool: Unfarmed](https://poap.gallery/event/8924) | 30-Sep-2021 | 2572 |
+| <img src="https://assets.poap.xyz/poap-x-rocket-pool-crossover-celebration-2021-logo-1632935445130.png" width="100" /> | [POAP x Rocket Pool: Crossover Celebration](https://poap.gallery/event/8979) | 30-Sep-2021 | 21412 |
+| <img src="https://assets.poap.xyz/rocket-pool-x-rari-capital-2021-logo-1632939657827.png" width="100" /> | [Rocket Pool X Rari Capital](https://poap.gallery/event/8989) | 30-Sep-2021 | 7803 |
+| <img src="https://assets.poap.xyz/eu30-per-rpl-celebration-2021-logo-1633111987203.png" width="100" /> | [€30 per RPL celebration](https://poap.gallery/event/9214) | 30-Sep-2021 | 79 |
+| <img src="https://assets.poap.xyz/zapper-and-rocket-pool-crossover-2021-logo-1633272352461.png" width="100" /> | [Zapper and Rocket Pool Crossover](https://poap.gallery/event/9329) | 02-Oct-2021 | 10779 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-calm-before-the-storm-2021-logo-1633323936194.png" width="100" /> | [EthStaker Presents: Calm Before The Storm](https://poap.gallery/event/9390) | 03-Oct-2021 | 13682 |
+| <img src="https://assets.poap.xyz/trading-we-have-a-problem-2021-logo-1633444955588.png" width="100" /> | [Rocket Pool: #trading, we have a problem](https://poap.gallery/event/9564) | 04-Oct-2021 | 1980 |
+| <img src="https://assets.poap.xyz/rocket-pool-launch-paint-party-2021-logo-1633397825510.png" width="100" /> | [Rocket Pool Launch - Paint Party](https://poap.gallery/event/9502) | 05-Oct-2021 | 5 |
+| <img src="https://assets.poap.xyz/rocket-pool-proof-of-worthalter-appreciation-2021-logo-1633409626332.png" width="100" /> | [Rocket Pool Proof of Worthalter Appreciation](https://poap.gallery/event/9518) | 05-Oct-2021 | 159 |
+| <img src="https://assets.poap.xyz/imnotart-rocket-pool-mainnet-white-hat-appreciation-2021-logo-1633474233610.png" width="100" /> | [imnotArt - Rocket Pool Mainnet White Hat Appreciation](https://poap.gallery/event/9622) | 05-Oct-2021 | 6 |
+| <img src="https://assets.poap.xyz/stakewise-saves-rocket-pool-2021-logo-1633487971893.png" width="100" /> | [StakeWise Saves Rocket Pool](https://poap.gallery/event/9633) | 05-Oct-2021 | 4280 |
+| <img src="https://assets.poap.xyz/25-raffles-of-worthmas-2021-logo-1633394669578.png" width="100" /> | [25 Raffles of Worthmas](https://poap.gallery/event/9501) | 06-Oct-2021 | 1 |
+| <img src="https://assets.poap.xyz/rocketpool-launch-patch-2021-logo-1633398612992.png" width="100" /> | [RocketPool Launch Patch](https://poap.gallery/event/9504) | 06-Oct-2021 | 2 |
+| <img src="https://assets.poap.xyz/bot-supporters-2021-logo-1633505010959.png" width="100" /> | [Bot Supporters](https://poap.gallery/event/9652) | 06-Oct-2021 | 15 |
+| <img src="https://assets.poap.xyz/rocket-pool-poap-collector-2021-logo-1633735418087.png" width="100" /> | [Rocket Pool POAP Collector](https://poap.gallery/event/9998) | 08-Oct-2021 | 1140 |
+| <img src="https://assets.poap.xyz/rocket-pool-horror-picture-show-2021-logo-1635519354991.png" width="100" /> | [Rocket Pool Horror Picture Show](https://poap.gallery/event/12103) | 31-Oct-2021 | 108 |
+| <img src="https://assets.poap.xyz/tkstranodks-apes-into-rocket-pool-2021-logo-1635894364676.png" width="100" /> | [TΞtranodΞ apes into Rocket Pool](https://poap.gallery/event/12614) | 03-Nov-2021 | 139 |
+| <img src="https://assets.poap.xyz/the-rocket-pool-golden-record-2021-logo-1636138820722.png" width="100" /> | [The Rocket Pool Golden Record](https://poap.gallery/event/12867) | 05-Nov-2021 | 72 |
+| <img src="https://assets.poap.xyz/rocket-pool-voters-poap-2021-logo-1636220744095.png" width="100" /> | [Rocket Pool Voters POAP](https://poap.gallery/event/12926) | 06-Nov-2021 | 145 |
+| <img src="https://assets.poap.xyz/supporter-of-rocket-watch-bot-by-invisiblesymbol-2021-logo-1636249849156.png" width="100" /> | [Supporter of Rocket Watch Bot by InvisibleSymbol](https://poap.gallery/event/12945) | 06-Nov-2021 | 33 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-official-rocket-pool-mainnet-launch-2021-logo-1636133883152.png" width="100" /> | [EthStaker Presents: Official Rocket Pool Mainnet Launch](https://poap.gallery/event/12857) | 07-Nov-2021 | 1493 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-rocket-pool-pre-launch-poapart-painting-party-2021-logo-1636134062399.png" width="100" /> | [EthStaker Presents: Rocket Pool Pre-Launch POAP.art Painting Party](https://poap.gallery/event/12858) | 07-Nov-2021 | 1499 |
+| <img src="https://assets.poap.xyz/supporter-of-the-rp-metrics-dashboard-by-vgr-2021-logo-1636303538846.png" width="100" /> | [Supporter of the RP-Metrics-Dashboard by VGR](https://poap.gallery/event/12980) | 07-Nov-2021 | 26 |
+| <img src="https://assets.poap.xyz/rocket-pool-launch-v2-lb-2021-logo-1636323891439.png" width="100" /> | [Rocket Pool Launch V2 - LB](https://poap.gallery/event/13008) | 08-Nov-2021 | 995 |
+| <img src="https://assets.poap.xyz/kron-apreciation-poap-bydaserdogeth27642nd-place-2021-logo-1636407336941.png" width="100" /> | [Kron Appreciation POAP By:DaserDog.eth#2764	2nd Place](https://poap.gallery/event/13133) | 08-Nov-2021 | 1 |
+| <img src="https://assets.poap.xyz/kron-apreciation-poap-bykevster44283rd-place-2021-logo-1636407846312.png" width="100" /> | [Kron Appreciation POAP By:Kevster#4428	3rd Place](https://poap.gallery/event/13135) | 08-Nov-2021 | 1 |
+| <img src="https://assets.poap.xyz/kron-apreciation-poap-byastoneta9895-4th-place-2021-logo-1636408103637.png" width="100" /> | [Kron Appreciation POAP By:astoneta#9895 4th Place](https://poap.gallery/event/13136) | 08-Nov-2021 | 1 |
+| <img src="https://assets.poap.xyz/kron-appreciation-poap-bysleetyeth60521st-place-2021-logo-1636408605044.png" width="100" /> | [Kron Appreciation  POAP By:sleety.eth#6052	1st Place!](https://poap.gallery/event/13138) | 08-Nov-2021 | 121 |
+| <img src="https://assets.poap.xyz/rocket-pool-launch-party-pixel-placer-2021-logo-1636467756741.png" width="100" /> | [Rocket Pool Launch Party - Pixel Placer](https://poap.gallery/event/13203) | 08-Nov-2021 | 389 |
+| <img src="https://assets.poap.xyz/rocket-pool-day-1-reth-holder-2021-logo-1636552885010.png" width="100" /> | [Rocket Pool Day 1 rETH Holder](https://poap.gallery/event/13334) | 08-Nov-2021 | 52 |
+| <img src="https://assets.poap.xyz/ethstaker-presents-rocket-pool-mainnet-launch-2022-logo-1644608349954.png" width="100" /> | [EthStaker Presents: Rocket Pool Mainnet Launch](https://poap.gallery/event/27616) | 08-Nov-2021 | 263 |
+| <img src="https://assets.poap.xyz/rocket-pool-launch-stage-1-node-operator-2021-logo-1636640645718.png" width="100" /> | [Rocket Pool Launch First 24 hours Node Operator](https://poap.gallery/event/13512) | 09-Nov-2021 | 13 |
+| <img src="https://assets.poap.xyz/rocket-pool-launch-25-raffles-of-worthmas-2021-logo-1636119364865.png" width="100" /> | [Rocket Pool Launch - 25 Raffles of Worthmas ](https://poap.gallery/event/12831) | 09-Nov-2021 | 203 |
+| <img src="https://assets.poap.xyz/rocket-pool-community-collaborating-on-education-material-2022-logo-1649100327290.png" width="100" /> | [Rocket Pool community collaborating on Education material](https://poap.gallery/event/37148) | 11-Nov-2021 | 18 |
+| <img src="https://assets.poap.xyz/rocket-pool-stage-3-time-travel-2021-logo-1637038900329.png" width="100" /> | [Rocket Pool Stage 3 Time Travel](https://poap.gallery/event/13989) | 16-Nov-2021 | 9 |
+| <img src="https://assets.poap.xyz/poapathon-side-chat-community-2021-logo-1637172538349.png" width="100" /> | [POAPathon Side Chat - Community](https://poap.gallery/event/14206) | 17-Nov-2021 | 409 |
+| <img src="https://assets.poap.xyz/no-longer-dog-days-in-rp-discord-4th-edition-2021-logo-1637457689525.png" width="100" /> | [(No Longer) Dog Days in RP Discord (4th Edition)](https://poap.gallery/event/14662) | 20-Nov-2021 | 67 |
+| <img src="https://assets.poap.xyz/0xace-launches-a-rocketpool-minipool-not-2021-logo-1637591749011.png" width="100" /> | [0xAce Launches a Rocketpool Minipool... NOT!](https://poap.gallery/event/14812) | 21-Nov-2021 | 109 |
+| <img src="https://assets.poap.xyz/rethgolf-i-voted-2021-logo-1637926549074.png" width="100" /> | [#rEthGolf : I voted](https://poap.gallery/event/15411) | 25-Nov-2021 | 25 |
+| <img src="https://assets.poap.xyz/no-longer-dog-days-in-rp-discord-5th-edition-2021-logo-1638039150644.png" width="100" /> | [(No Longer) Dog Days in RP Discord (5th Edition)](https://poap.gallery/event/15550) | 27-Nov-2021 | 54 |
+| <img src="https://assets.poap.xyz/yinandyang-stakes-3000eth-with-rocket-pool-2021-logo-1638227892572.png" width="100" /> | [Yinandyang stakes 3000ETH with Rocket Pool](https://poap.gallery/event/15843) | 29-Nov-2021 | 150 |
+| <img src="https://assets.poap.xyz/waiting-for-the-bankless-feat-rocketpool-stream-2021-logo-1638307858540.png" width="100" /> | [Waiting for the Bankless feat RocketPool stream](https://poap.gallery/event/15990) | 30-Nov-2021 | 30 |
+| <img src="https://assets.poap.xyz/marceau-casts-his-die-2021-logo-1638810817931.png" width="100" /> | [Marceau Casts his Die](https://poap.gallery/event/16822) | 06-Dec-2021 | 65 |
+| <img src="https://assets.poap.xyz/poap-recruits-rp-to-recruit-a-recruiter-2021-logo-1640065002415.png" width="100" /> | [POAP Recruits RP to Recruit a Recruiter](https://poap.gallery/event/19267) | 16-Dec-2021 | 59 |
+| <img src="https://assets.poap.xyz/trading-participates-in-the-poapathon-holiday-extravaganza-2021-logo-1640117840339.png" width="100" /> | [#Trading participates in the POAPathon holiday extravaganza](https://poap.gallery/event/19383) | 22-Dec-2021 | 77 |
+| <img src="https://assets.poap.xyz/metazoo-international-wearable-claim-purple-santa-hat-sponsored-by-jtv-2021-logo-1640190694582.png" width="100" /> | [MetaZoo International Wearable Claim \| Purple Santa Hat Sponsored by JTV](https://poap.gallery/event/19537) | 22-Dec-2021 | 94 |
+| <img src="https://assets.poap.xyz/rocket-pool-celebrates-christmass-2021-logo-1640710769367.png" width="100" /> | [Rocket Pool celebrates Christmas! ](https://poap.gallery/event/20433) | 25-Dec-2021 | 61 |
+| <img src="https://assets.poap.xyz/gitpoap-2018-rocket-pool-contributor-2018-logo-1658862506290.png" width="100" /> | [GitPOAP: 2018 Rocket Pool Contributor](https://poap.gallery/event/56639) | 01-Jan-2022 | 1 |
+| <img src="https://assets.poap.xyz/gitpoap-2020-rocket-pool-contributor-2020-logo-1658862514941.png" width="100" /> | [GitPOAP: 2020 Rocket Pool Contributor](https://poap.gallery/event/56641) | 01-Jan-2022 | 1 |
+| <img src="https://assets.poap.xyz/gitpoap-2021-rocket-pool-contributor-2021-logo-1658862518776.png" width="100" /> | [GitPOAP: 2021 Rocket Pool Contributor](https://poap.gallery/event/56642) | 01-Jan-2022 | 10 |
+| <img src="https://assets.poap.xyz/gitpoap-2022-rocket-pool-contributor-2022-logo-1658862522906.png" width="100" /> | [GitPOAP: 2022 Rocket Pool Contributor](https://poap.gallery/event/56643) | 01-Jan-2022 | 17 |
+| <img src="https://assets.poap.xyz/cryptexs-space-invaders-episode-13-2022-logo-1641488044512.png" width="100" /> | [Cryptex's Space Invaders Episode 13](https://poap.gallery/event/21693) | 06-Jan-2022 | 18 |
+| <img src="https://assets.poap.xyz/jcrtp-blasts-off-2022-logo-1641393316429.png" width="100" /> | [JCRTP Blasts Off!](https://poap.gallery/event/21531) | 06-Jan-2022 | 90 |
+| <img src="https://assets.poap.xyz/bancor-snapshot-proposal-0019-onboard-reth-with-250k-trading-liquidity-2022-logo-1643464333326.png" width="100" /> | [Bancor Snapshot Proposal #0019 - Onboard rETH with 250K trading liquidity](https://poap.gallery/event/25200) | 30-Jan-2022 | 29 |
+| <img src="https://assets.poap.xyz/trading-tweets-about-reth-2022-logo-1644766699840.png" width="100" /> | [#Trading tweets about rEth](https://poap.gallery/event/27890) | 01-Feb-2022 | 25 |
+| <img src="https://assets.poap.xyz/rocket-pool-meetup-ethdenver-2022-logo-1645202721084.png" width="100" /> | [Rocket Pool Meetup ETHDenver](https://poap.gallery/event/29146) | 19-Feb-2022 | 10 |
+| <img src="https://assets.poap.xyz/switch-clients-with-rocket-pool-2022-logo-1647191194055.png" width="100" /> | [Switch Clients with Rocket Pool](https://poap.gallery/event/33041) | 08-Mar-2022 | 43 |
+| <img src="https://assets.poap.xyz/jaspers-curve-pool-2022-logo-1647021439943.png" width="100" /> | [Jasper's Curve Pool](https://poap.gallery/event/32821) | 10-Mar-2022 | 80 |
+| <img src="https://assets.poap.xyz/rocket-pool-trading-stands-with-ukraine-2022-logo-1647288113820.png" width="100" /> | [Rocket Pool #Trading Stands with Ukraine](https://poap.gallery/event/33235) | 14-Mar-2022 | 103 |
+| <img src="https://assets.poap.xyz/8thwondereth-is-back-in-the-rpl-game-2022-logo-1649837265183.png" width="100" /> | [8thwonder.eth is back in the RPL game](https://poap.gallery/event/38784) | 12-Apr-2022 | 30 |
+| <img src="https://assets.poap.xyz/you-met-the-rocket-pool-team-at-devconnect-2022-2022-logo-1649986911020.png" width="100" /> | [You met the Rocket Pool team at Devconnect 2022!](https://poap.gallery/event/39236) | 19-Apr-2022 | 71 |
+| <img src="https://assets.poap.xyz/ethstaker-staking-gathering-devconnect-2022-2022-logo-1649989185238.png" width="100" /> | [EthStaker Staking Gathering - Devconnect 2022](https://poap.gallery/event/39245) | 19-Apr-2022 | 157 |
+| <img src="https://assets.poap.xyz/youve-met-nick-doherty-at-devconnect-2022-2022-logo-1650378992745.png" width="100" /> | [You've met Nick Doherty at Devconnect 2022](https://poap.gallery/event/39947) | 19-Apr-2022 | 11 |
+| <img src="https://assets.poap.xyz/youve-met-kane-wallmann-devconnect-22-2022-logo-1650379125519.png" width="100" /> | [You've met Kane Wallmann - Devconnect '22](https://poap.gallery/event/39949) | 19-Apr-2022 | 14 |
+| <img src="https://assets.poap.xyz/rocket-pool-meetup-at-devconnect-amsterdam-2022-logo-1650405971800.png" width="100" /> | [Rocket Pool meetup at DevConnect Amsterdam](https://poap.gallery/event/40059) | 20-Apr-2022 | 19 |
+| <img src="https://assets.poap.xyz/buttachain-in-the-ping-server-2022-logo-1651012517385.png" width="100" /> | [Buttacha.in in the ping server](https://poap.gallery/event/41364) | 21-Apr-2022 | 21 |
+| <img src="https://assets.poap.xyz/rocket-pool-developers-announce-all-the-things-weve-been-waiting-for-2022-logo-1651632922242.png" width="100" /> | [Rocket Pool Developers announce all the things we've been waiting for](https://poap.gallery/event/42553) | 03-May-2022 | 54 |
+| <img src="https://assets.poap.xyz/tally-ho-community-cal-may-6th-2022-logo-1652086331345.png" width="100" /> | [Tally Ho Community Call May 6th!](https://poap.gallery/event/43435) | 06-May-2022 | 831 |
+| <img src="https://assets.poap.xyz/rocket-pool-minipool-staking-rewards-distributed-during-the-luna-meltdown-2022-logo-1652451489510.png" width="100" /> | [Rocket Pool minipool staking rewards distributed during the Luna meltdown](https://poap.gallery/event/44226) | 11-May-2022 | 56 |
+| <img src="https://assets.poap.xyz/celsius-sunday-with-rocket-pool-trading-2022-logo-1655092218038.png" width="100" /> | [Celsius Sunday With Rocket Pool #trading](https://poap.gallery/event/49472) | 12-Jun-2022 | 51 |
+| <img src="https://assets.poap.xyz/rocketpool-node-operator-constipation-got-released-2022-logo-1656511603581.png" width="100" /> | [Rocketpool Node Operator Constipation got released](https://poap.gallery/event/52683) | 29-Jun-2022 | 67 |
+| <img src="https://assets.poap.xyz/rocket-pool-welcomes-maverick-2022-logo-1660267799253.png" width="100" /> | [Rocket Pool Welcomes Maverick](https://poap.gallery/event/59757) | 04-Jul-2022 | 45 |
+| <img src="https://assets.poap.xyz/the-july-2022-pumpening-of-rpl-2022-logo-1659288336073.png" width="100" /> | [The July 2022 Pumpening of RPL](https://poap.gallery/event/57373) | 31-Jul-2022 | 94 |
+| <img src="https://assets.poap.xyz/thomasg-buys-out-the-rpl-liquidity-wall-2022-logo-1659477324512.png" width="100" /> | [Thomasg buys out the RPL liquidity wall](https://poap.gallery/event/57661) | 01-Aug-2022 | 81 |
+| <img src="https://assets.poap.xyz/rocket-pool-trading-observes-016-rpleth-2022-logo-1659517135664.png" width="100" /> | [Rocket Pool #Trading Observes 0.016 RPL/ETH](https://poap.gallery/event/57741) | 03-Aug-2022 | 64 |
+| <img src="https://assets.poap.xyz/i-prevented-mentoreth-being-doxed-2022-logo-1659704329195.png" width="100" /> | [I prevented mentor.eth being doxed](https://poap.gallery/event/58261) | 05-Aug-2022 | 8 |
+| <img src="https://assets.poap.xyz/ethstaker-community-call-21-rocket-pool-2022-logo-1661713060492.png" width="100" /> | [EthStaker Community Call #21: Rocket Pool](https://poap.gallery/event/62513) | 28-Aug-2022 | 169 |
+| <img src="https://assets.poap.xyz/rocket-pool-launches-smoothing-pool-2022-logo-1661854611957.png" width="100" /> | [Rocket Pool launches Smoothing Pool](https://poap.gallery/event/62754) | 29-Aug-2022 | 78 |
+| <img src="https://assets.poap.xyz/ken-and-marceau-on-rocket-pool-bankless-bullcast-2022-logo-1663093195119.png" width="100" /> | [Ken and Marceau on Rocket Pool Bankless Bullcast](https://poap.gallery/event/64942) | 02-Sep-2022 | 42 |
+| <img src="https://assets.poap.xyz/support-of-rocket-fuel-2022-logo-1663589411116.png" width="100" /> | [Support of Rocket Fuel](https://poap.gallery/event/65958) | 20-Sep-2022 | 81 |
+| <img src="https://assets.poap.xyz/a-rocket-pool-community-voted-on-rocket-fuel-to-get-a-new-thumbnail-on-youtube-2022-logo-1664205897236.png" width="100" /> | [New Rocket Fuel thumbnail](https://poap.gallery/event/67269) | 26-Sep-2022 | 54 |
+| <img src="https://assets.poap.xyz/100eth-smoothing-pool-milestone-2022-logo-1664266272871.png" width="100" /> | [100ETH Smoothing Pool Milestone](https://poap.gallery/event/68626) | 29-Sep-2022 | 65 |
+| <img src="https://assets.poap.xyz/rocket-fuel-smashing-that-like-button-undefined-logo-1664458004798.png" width="100" /> | [Rocket Fuel smashing that like button! ](https://poap.gallery/event/70517) | 29-Sep-2022 | 102 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-node-most-likely-to-start-a-fire-2022-logo-1665301828883.png" width="100" /> | [Bring out your nodes - Node most likely to start a fire ](https://poap.gallery/event/73803) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-node-macgyver-would-be-proud-of-2022-logo-1665303096602.png" width="100" /> | [Bring out your nodes - Node MacGyver would be proud of](https://poap.gallery/event/73806) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-node-looks-older-than-the-pyramids-2022-logo-1665303168897.png" width="100" /> | [Bring out your nodes - Node looks older than the Pyramids](https://poap.gallery/event/73807) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-node-has-more-lights-than-a-discotheque-2022-logo-1665303231283.png" width="100" /> | [Bring out your nodes - Node has more lights than a discotheque](https://poap.gallery/event/73808) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-extreme-offgrid-node-ing-2022-logo-1665303290809.png" width="100" /> | [Bring out your nodes - Extreme offgrid node-ing](https://poap.gallery/event/73809) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-its-just-meh-2022-logo-1665303343431.png" width="100" /> | [Bring out your nodes - It's just meh...](https://poap.gallery/event/73810) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-node-is-the-goat-2022-logo-1665303391118.png" width="100" /> | [Bring out your nodes - Node is the G.O.A.T.](https://poap.gallery/event/73811) | 08-Oct-2022 | 1 |
+| <img src="https://assets.poap.xyz/bring-out-your-nodes-anyone-can-be-a-node-operator-2022-logo-1665303435512.png" width="100" /> | [Bring out your nodes - Anyone can be a node operator](https://poap.gallery/event/73812) | 08-Oct-2022 | 2 |
+| <img src="https://assets.poap.xyz/you-met-ken-at-devcon-bogotc3a12c-columbia-2022-logo-1665197770333.png" width="100" /> | [You met Ken at DEVCON Bogotá, Colombia](https://poap.gallery/event/73460) | 09-Oct-2022 | 19 |
+| <img src="https://assets.poap.xyz/you-met-kane-wallmann-at-devcon-bogotc3a1-2022-logo-1665494188706.png" width="100" /> | [You met Kane Wallmann at Devcon Bogotá](https://poap.gallery/event/74564) | 11-Oct-2022 | 12 |
 
-Date (Start)| Event
-------------|------
-09-Feb-2021 | :1st_place_medal: [The 0xcc RPL Dumpening](https://poap.gallery/event/1161)
-13-Mar-2021 | :1st_place_medal: [ETH Staker Community Quiz Show #3: Rocket Pool - Viewer](https://poap.gallery/event/1214)
-13-Mar-2021 | :1st_place_medal: [ETH Staker Community Quiz Show #3: Rocket Pool - Participant](https://poap.gallery/event/1215)
-13-Mar-2021 | :1st_place_medal: [ETH Staker Community Quiz Show #3: Rocket Pool - Winner](https://poap.gallery/event/1216)
-05-Apr-2021 | :1st_place_medal: [The 0x6b RPL Dumpening](https://poap.gallery/event/1616)
-08-Apr-2021 | :1st_place_medal: [bigPOAP69](https://poap.gallery/event/1595)
-13-Apr-2021 | :1st_place_medal: [Rocket Pool inb4 $20](https://poap.gallery/event/1654)
-13-Apr-2021 | :1st_place_medal: [Rocket Pool Tokenomics chat](https://poap.gallery/event/1656)
-15-Apr-2021 | :1st_place_medal: [Rocket Pool Berlin POAP.art event](https://poap.gallery/event/1685)
-20-Apr-2021 | :1st_place_medal: [Dybsy Bot and Blockchain Detective Friends](https://poap.gallery/event/1769)
-22-Apr-2021 | :1st_place_medal: [Rocket Pool OwlBear](https://poap.gallery/event/1818)
-30-Apr-2021 | :1st_place_medal: [DrDoofus](https://poap.gallery/event/1926)
-04-May-2021 | :1st_place_medal: [May the Fourth be With You 2021](https://poap.gallery/event/2013)
-09-May-2021 | :1st_place_medal: [Proof of European Protocol](https://poap.gallery/event/2092)
-11-May-2021 | :1st_place_medal: [Rocket Pool Tokenomics - LogicBeach.eth Video Release](https://poap.gallery/event/2162)
-12-May-2021 | :1st_place_medal: [The RocketPool Doldrums](https://poap.gallery/event/2173)
-17-May-2021 | :1st_place_medal: [Sassano Validator Fix](https://poap.gallery/event/2273)
-20-May-2021 | :1st_place_medal: [Moon Mission Crew Patch](https://poap.gallery/event/2334)
-21-May-2021 | :1st_place_medal: [The RPL Astronaut Cat](https://poap.gallery/event/2298)
-date missing | :1st_place_medal: [The 0xcc RPL Dumpening](https://poap.gallery/event/1161)
-date missing | :1st_place_medal: [ETH Staker Community Quiz Show #3: Rocket Pool - Viewer](https://poap.gallery/event/1214)
-date missing | :1st_place_medal: [ETH Staker Community Quiz Show #3: Rocket Pool - Participant](https://poap.gallery/event/1215)
-date missing | :1st_place_medal: [ETH Staker Community Quiz Show #3: Rocket Pool - Winner](https://poap.gallery/event/1216)
-date missing | :1st_place_medal: [The 0x6b RPL Dumpening](https://poap.gallery/event/1616)
-date missing | :1st_place_medal: [bigPOAP69](https://poap.gallery/event/1595)
-date missing | :1st_place_medal: [Rocket Pool inb4 $20](https://poap.gallery/event/1654)
-date missing | :1st_place_medal: [Rocket Pool Tokenomics chat](https://poap.gallery/event/1656)
-date missing | :1st_place_medal: [Rocket Pool Berlin POAP.art event](https://poap.gallery/event/1685)
-date missing | :1st_place_medal: [Dybsy Bot and Blockchain Detective Friends](https://poap.gallery/event/1769)
-date missing | :1st_place_medal: [Rocket Pool OwlBear](https://poap.gallery/event/1818)
-date missing | :1st_place_medal: [DrDoofus](https://poap.gallery/event/1926)
-date missing | :1st_place_medal: [Proof of European Protocol](https://poap.gallery/event/2092)
-date missing | :1st_place_medal: [May the Fourth be With You 2021](https://poap.gallery/event/2013)
-date missing | :1st_place_medal: [Rocket Pool Tokenomics - LogicBeach.eth Video Release](https://poap.gallery/event/2162)
-date missing | :1st_place_medal: [The RocketPool Doldrums](https://poap.gallery/event/2173)
-date missing | :1st_place_medal: [Sassano Validator Fix](https://poap.gallery/event/2273)
-date missing | :1st_place_medal: [The RPL Astronaut Cat](https://poap.gallery/event/2298)
-date missing | :1st_place_medal: [Moon Mission Crew Patch](https://poap.gallery/event/2334)
-date missing | :1st_place_medal: [Rocket Pool Penguin shinanigans](https://poap.gallery/event/2448)
-date missing | :1st_place_medal: [Rocketpool Discord and the GOAT jcrtp save the future of Ethereum!](https://poap.gallery/event/2502)
-date missing | :1st_place_medal: [Jcrtp presents 0x02](https://poap.gallery/event/2658)
-date missing | :1st_place_medal: [Rocket Pool Babies](https://poap.gallery/event/2196)
-date missing | :1st_place_medal: [39 Thumbs](https://poap.gallery/event/2725)
-date missing | :1st_place_medal: [Rocket Pool Waiting Game](https://poap.gallery/event/2892)
-date missing | :1st_place_medal: [RP Titanic](https://poap.gallery/event/2981)
-date missing | :1st_place_medal: [Dog Days in RP Discord (1st Edition)](https://poap.gallery/event/3107)
-date missing | :1st_place_medal: [Rocket Pool Poster Raffle](https://poap.gallery/event/3145)
-date missing | :1st_place_medal: [Rocket Pool Cool](https://poap.gallery/event/3252)
+### The Lost POAPs
+
+These POAPs were created but never minted. They serve as an important reminder that things don't always go to plan.
+
+| Image | Name | Date | Supply |
+| -- | -- | -- | -- |
+| <img src="https://assets.poap.xyz/rocket-pool-beta-v2-2020-logo-1596735657432.png" width="100" /> | [Rocket Pool Beta v2.5](https://poap.gallery/event/353) | 06-Aug-2020 | Never minted |
+| <img src="https://assets.poap.xyz/rocket-pool-medalla-beta-2020-staker-2020-logo-1601427644226.png" width="100" /> | [Rocket Pool Medalla Beta 2020 - Staker](https://poap.gallery/event/413) | 06-Oct-2020 | Never minted |
+| <img src="https://assets.poap.xyz/rocket-pool-medalla-beta-2020-node-operator-2020-logo-1601427802347.png" width="100" /> | [Rocket Pool Medalla Beta 2020 - Node Operator](https://poap.gallery/event/414) | 06-Oct-2020 | Never minted |
+| <img src="https://assets.poap.xyz/rocket-pool-medalla-beta-2020-mvp-2020-logo-1601427928485.png" width="100" /> | [Rocket Pool Medalla Beta 2020 - MVP](https://poap.gallery/event/415) | 06-Oct-2020 | Never minted |
+| <img src="https://assets.poap.xyz/rocketpool-celebrates-001-ratio-troll-edition-2021-logo-1632037475945.png" width="100" /> | [Rocketpool celebrates 0.01 ratio - Troll Edition](https://poap.gallery/event/7992) | 19-Sep-2021 | Never minted |
+| <img src="https://assets.poap.xyz/twitter-rocket-pool-crossover-celebration-2021-logo-1633211900635.png" width="100" /> | [Twitter / Rocket Pool Crossover Celebration](https://poap.gallery/event/9307) | 02-Oct-2021 | Never minted |
+| <img src="https://assets.poap.xyz/ethstaker-presents-rocket-pool-mainnet-launch-2021-logo-1633359390368.png" width="100" /> | [EthStaker Presents: Rocket Pool Mainnet Launch](https://poap.gallery/event/9431) | 05-Oct-2021 | Never minted |
+| <img src="https://assets.poap.xyz/rocket-pool-launch-day-1-node-operator-2021-logo-1633314235280.png" width="100" /> | [Rocket Pool Launch Day 1 Node Operator](https://poap.gallery/event/9376) | 06-Oct-2021 | Never minted |
+| <img src="https://assets.poap.xyz/logicbeacheth-presents-how-to-stake-on-rocket-pool-2021-logo-1637016371608.png" width="100" /> | [LogicBeach.eth presents How to Stake on Rocket Pool](https://poap.gallery/event/13961) | 15-Nov-2021 | Never minted |
+| <img src="https://assets.poap.xyz/gitpoap-2017-rocket-pool-contributor-2017-logo-1658862503167.png" width="100" /> | [GitPOAP: 2017 Rocket Pool Contributor](https://poap.gallery/event/56638) | 01-Jan-2022 | Never minted |
+| <img src="https://assets.poap.xyz/gitpoap-2019-rocket-pool-contributor-2019-logo-1658862509847.png" width="100" /> | [GitPOAP: 2019 Rocket Pool Contributor](https://poap.gallery/event/56640) | 01-Jan-2022 | Never minted |
+| <img src="https://assets.poap.xyz/rocket-pool-first-1000-nodes-2022-logo-1650324596813.png" width="100" /> | [Rocket Pool First 1000 Nodes](https://poap.gallery/event/39798) | 18-Apr-2022 | Never minted |
+| <img src="https://assets.poap.xyz/youve-met-kane-wallmann-at-devconnect-22-2022-logo-1650378697817.png" width="100" /> | [You've met Kane Wallmann at DevConnect '22](https://poap.gallery/event/39945) | 19-Apr-2022 | Never minted |
+| <img src="https://assets.poap.xyz/rocket-pool-trading-celsius-sunday-2022-logo-1655091615200.png" width="100" /> | [Rocket Pool #trading Celsius Sunday](https://poap.gallery/event/49469) | 12-Jun-2022 | Never minted |
+| <img src="https://assets.poap.xyz/you-met-ken-at-devcon-vi-bogotc3a12c-columbia-2022-logo-1665199577508.png" width="100" /> | [ You met Ken at Devcon VI Bogotá, Colombia](https://poap.gallery/event/73467) | 09-Oct-2022 | Never minted |
