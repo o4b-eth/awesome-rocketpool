@@ -1,9 +1,6 @@
 name: Broken link checker
 
 on:
-  push:
-    branches:
-      - broken-link-checker
   repository_dispatch:
   workflow_dispatch:
   schedule:
