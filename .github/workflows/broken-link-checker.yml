@@ -18,12 +18,12 @@ jobs:
 
       - name: Check for broken links
         id: lychee
-        uses: lycheeverse/lychee-action@2fa80ee45a2e8110e4931078749158b45207e9b7
+        uses: lycheeverse/lychee-action@v1.5.1
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Create issue
-        if: env.exit_code != 0
+        if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Broken link report
