@@ -41,7 +41,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
   - :newspaper: [Glossary](https://docs.rocketpool.net/overview/glossary.html)
   - :newspaper: [Whitepaper](https://docs.rocketpool.net/whitepaper/)
   - :newspaper: [Guides](https://docs.rocketpool.net/guides/) Includes guides on selecting platform & hardware, running clients efficiently, and securing systems.
-  	- :newspaper: [Selecting Hardware](https://docs.rocketpool.net/guides/node/hardware.html)
+  	- :newspaper: [Selecting Staking Hardware](https://docs.rocketpool.net/guides/node/local/hardware.html)
   	- :newspaper: [Securing Your Node](https://docs.rocketpool.net/guides/node/securing-your-node.html)
   - :newspaper: [FAQ](https://docs.rocketpool.net/overview/faq/#general)
 * :newspaper: [DAO Forums](https://dao.rocketpool.net/)
@@ -112,8 +112,7 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 * :newspaper: [Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
 * :newspaper: [The Best Ways To Secure Your SSH Server](https://www.howtogeek.com/443156/the-best-ways-to-secure-your-ssh-server/)
 * :newspaper: [Setting up Rocket Pool on a Raspberry Pi](https://github.com/jclapis/rp-pi-guide/blob/main/Overview.md)
-* :newspaper: [Selecting Staking Hardware](https://docs.rocketpool.net/guides/node/local/hardware.html)
-* :newspaper: [Guide To Setup Grafana Dashboard]([https://github.com/yorickdowne/grafana-for-rpool](https://docs.rocketpool.net/guides/node/grafana.html))
+* :newspaper: [Guide To Setup Grafana Dashboard](https://docs.rocketpool.net/guides/node/grafana.html)
 * :newspaper: [Guide/Security Best Practices For a ETH2 Validator Beaconchain Node](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
 * :newspaper: [Home Staking Security Questions](https://old.reddit.com/r/ethstaker/comments/iqq2tv/home_staking_security_questions/)
 * :newspaper: [Netcup Initial setup for Rocket Pool](https://gist.github.com/yorickdowne/7fbde369ee1979efa2cfd181259a94e3)
