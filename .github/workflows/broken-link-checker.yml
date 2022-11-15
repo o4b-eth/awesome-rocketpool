@@ -1,10 +1,8 @@
 name: Broken link checker
 
 on:
-  repository_dispatch:
-  workflow_dispatch:
-  schedule:
-    - cron: "00 18 * * *"
+  push:
+  pull_request:
 
 jobs:
   linkChecker:
@@ -15,12 +13,14 @@ jobs:
 
       - name: Check for broken links
         id: lychee
-        uses: lycheeverse/lychee-action@v1.5.1
+        uses: lycheeverse/lychee-action@v1.5.4
+        with:
+          fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Create issue
-        if: steps.lychee.outputs.exit_code != 0
+        if: failure() && github.event_name == 'push'
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Broken link report
