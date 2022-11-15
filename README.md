@@ -98,6 +98,10 @@ Everyone is welcome to contribute to `awesome rocketpool`, as long as you follow
 
 :link: [Located On A Separate Page](POAP.md)
 
+### NFT
+
+:link: [Located On A Separate Page](NFT.md)
+
 ### Community Explainer Series
 
 * :tv: [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
