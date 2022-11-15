@@ -1,6 +1,6 @@
 # Rocket Pool POAPs
 
-Being part of the awesome Rocket Pool community has its fair share of great moments. Some of these moments even how their own [POAP](https://www.poap.xyz/). 
+Being part of the awesome Rocket Pool community has its fair share of great moments. Some of these moments even have their own [POAP](https://www.poap.xyz/). 
 
 | Image | Name | Date | Supply |
 | -- | -- | -- | -- |
